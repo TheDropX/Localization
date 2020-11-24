@@ -1328,7 +1328,7 @@
         "description": "The presence description of the \"pixiv\" presence.\nIf \"pixiv\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/pixiv/dist/metadata.json"
     },
     "descriptions.pornhub": {
-        "message": "PornHub is the number one free porn site in the world with hundreds of thousands of free videos, including free HD and downloading capabilities.",
+        "message": "testPornHub is the number one free porn site in the world with hundreds of thousands of free videos, including free HD and downloading capabilities.",
         "description": "The presence description of the \"PornHub\" presence.\nIf \"PornHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PornHub/dist/metadata.json"
     },
     "descriptions.listenonrepeat": {
@@ -2651,92 +2651,8 @@
         "message": "Live & on-demand TV. 60+ channels. Unlimited DVR. No contract.",
         "description": "The presence description of the \"Philo\" presence.\nIf \"Philo\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Philo/dist/metadata.json"
     },
-    "descriptions.memesena": {
-        "message": "The perfect place for memers where we have Desi and English meme templates, meme articles, meme arts, copypastas, emojipastas and meme bots.",
-        "description": "The presence description of the \"Memesena\" presence.\nIf \"Memesena\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Memesena/dist/metadata.json"
-    },
-    "descriptions.figma": {
-        "message": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.",
-        "description": "The presence description of the \"Figma\" presence.\nIf \"Figma\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/Figma/dist/metadata.json"
-    },
-    "descriptions.vrchat": {
-        "message": "VRChat is a free-to-play massively multiplayer online virtual reality social platform. It allows players to interact with others as 3D character models.",
-        "description": "The presence description of the \"VRChat\" presence.\nIf \"VRChat\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VRChat/dist/metadata.json"
-    },
-    "descriptions.webflow": {
-        "message": "Webflow empowers designers to build professional, custom websites in a completely visual canvas.",
-        "description": "The presence description of the \"Webflow\" presence.\nIf \"Webflow\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Webflow/dist/metadata.json"
-    },
-    "descriptions.granblue_fantasy": {
+    "descriptions.gbf": {
         "message": "Japanese role playing game",
-        "description": "The presence description of the \"Granblue Fantasy\" presence.\nIf \"Granblue Fantasy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Granblue%20Fantasy/dist/metadata.json"
-    },
-    "descriptions.curve_fever pro": {
-        "message": "The smash hit Curve Fever is back with a new multiplayer browser game: Curve Fever Pro. Cut off opponents, squeeze through tiny holes and unlock new powers.",
-        "description": "The presence description of the \"Curve Fever Pro\" presence.\nIf \"Curve Fever Pro\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Curve%20Fever%20Pro/dist/metadata.json"
-    },
-    "descriptions.xero.gg": {
-        "message": "xero.gg is a website Player- and Clan database for a private server of the game S4 League.",
-        "description": "The presence description of the \"xero.gg\" presence.\nIf \"xero.gg\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/X/xero.gg/dist/metadata.json"
-    },
-    "descriptions.mojevideo": {
-        "message": "MojeVideo is a Slovak video streaming/sharing website mostly with funny, short videos",
-        "description": "The presence description of the \"MojeVideo\" presence.\nIf \"MojeVideo\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MojeVideo/dist/metadata.json"
-    },
-    "descriptions.google_podcast": {
-        "message": "With Google Podcasts, you can find and listen to the world's podcasts for free",
-        "description": "The presence description of the \"Google Podcast\" presence.\nIf \"Google Podcast\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Podcast/dist/metadata.json"
-    },
-    "descriptions.blob_project": {
-        "message": "Hello, welcome to Blob Project. We are from Jakarta, Indonesia. We create an amazing project and are trusted by thousands of people.",
-        "description": "The presence description of the \"Blob Project\" presence.\nIf \"Blob Project\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Blob%20Project/dist/metadata.json"
-    },
-    "descriptions.proxer": {
-        "message": "Free and open German Anime Community",
-        "description": "The presence description of the \"Proxer\" presence.\nIf \"Proxer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Proxer/dist/metadata.json"
-    },
-    "descriptions.dizimag": {
-        "message": "Dizimag is most popular website in the Turkey, you can watch TV series & films.",
-        "description": "The presence description of the \"Dizimag\" presence.\nIf \"Dizimag\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Dizimag/dist/metadata.json"
-    },
-    "descriptions.bonk2.io": {
-        "message": "A multiplayer browser game where the objective is to knock all of the opponents off the edge of the screen and be the last man standing.",
-        "description": "The presence description of the \"Bonk2.io\" presence.\nIf \"Bonk2.io\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Bonk2.io/dist/metadata.json"
-    },
-    "descriptions.github_codespaces": {
-        "message": "Contribute to projects without complicating your local setup. Spin up dev environments with a click — even for projects you haven't worked on before — and switch between them with ease.",
-        "description": "The presence description of the \"GitHub Codespaces\" presence.\nIf \"GitHub Codespaces\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GitHub%20Codespaces/dist/metadata.json"
-    },
-    "descriptions.dropbox": {
-        "message": "Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software.",
-        "description": "The presence description of the \"Dropbox\" presence.\nIf \"Dropbox\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Dropbox/dist/metadata.json"
-    },
-    "descriptions.animepill": {
-        "message": "Watch the latest anime hits. AnimePill - your daily dose of anime & manga.",
-        "description": "The presence description of the \"AnimePill\" presence.\nIf \"AnimePill\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimePill/dist/metadata.json"
-    },
-    "descriptions.ekrem_i̇mamoğlu": {
-        "message": "Istanbul Metropolitan Municipality president Ekrem Imamoglu's personal page.'",
-        "description": "The presence description of the \"Ekrem İmamoğlu\" presence.\nIf \"Ekrem İmamoğlu\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Ekrem%20%C4%B0mamo%C4%9Flu/dist/metadata.json"
-    },
-    "descriptions.sürat_kargo": {
-        "message": "Sürat Kargo, delivery company providing services in Turkey.",
-        "description": "The presence description of the \"Sürat Kargo\" presence.\nIf \"Sürat Kargo\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/S%C3%BCrat%20Kargo/dist/metadata.json"
-    },
-    "descriptions.bonk_leagues": {
-        "message": "The best tools for bonk.io, featuring a skin manager, XP checker and more for bonk.io",
-        "description": "The presence description of the \"Bonk Leagues\" presence.\nIf \"Bonk Leagues\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Bonk%20Leagues/dist/metadata.json"
-    },
-    "descriptions.newgrounds": {
-        "message": "A community of artists, game developers, musicians, voice actors and writers who create and share some of the best stuff on the web!",
-        "description": "The presence description of the \"Newgrounds\" presence.\nIf \"Newgrounds\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Newgrounds/dist/metadata.json"
-    },
-    "descriptions.anizmtv": {
-        "message": "AnizmTV is a website which enables you to watch subtitled anime with high quality broadcasting and up-to-date episodes.",
-        "description": "The presence description of the \"AnizmTV\" presence.\nIf \"AnizmTV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnizmTV/dist/metadata.json"
-    },
-    "descriptions.storyfire": {
-        "message": "Join the StoryFire rebellion! Watch and create the stories and videos that you want while growing a massive fanbase!",
-        "description": "The presence description of the \"StoryFire\" presence.\nIf \"StoryFire\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/StoryFire/dist/metadata.json"
+        "description": "The presence description of the \"GBF\" presence.\nIf \"GBF\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GBF/dist/metadata.json"
     }
 }
