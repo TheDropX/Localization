@@ -1,1 +1,2742 @@
-{}
+{
+    "descriptions.7plus": {
+        "message": "7plus is a video on demand, catch-up TV service run by the Seven Network. 7plus also offers online live streaming of Channel Seven, 7TWO, 7mate, 7flix, and Racing.com.",
+        "description": "The presence description of the \"7plus\" presence."
+    },
+    "descriptions.ais_play": {
+        "message": "AIS Play is a thailand streaming service offered to a series, television providers, anime, much more",
+        "description": "The presence description of the \"AIS Play\" presence."
+    },
+    "descriptions.9gag": {
+        "message": "9GAG has the best funny pics, gifs, videos, gaming, anime, manga, movie, tv, cosplay, sport, food, memes, cute, fail, wtf photos on the internet!",
+        "description": "The presence description of the \"9GAG\" presence."
+    },
+    "descriptions.akinator": {
+        "message": "Think about a real or fictional character. I will try to guess who it is",
+        "description": "The presence description of the \"Akinator\" presence."
+    },
+    "descriptions.ai_dungeon": {
+        "message": "AI Dungeon is an open-source text adventure game that uses the GPT-2 text prediction model created by OpenAI to generate effectively limitless open-ended story lines.",
+        "description": "The presence description of the \"AI Dungeon\" presence."
+    },
+    "descriptions.anghami": {
+        "message": "All the music you love, all the freedom you need. Arabic and International in one place",
+        "description": "The presence description of the \"Anghami\" presence."
+    },
+    "descriptions.amazon_music": {
+        "message": "Amazon Music is a music streaming platform and online music store operated by Amazon.com. Launched in public beta on September 25, 2007, in January 2008 it became the first music store to sell music without digital rights management from the four major music labels, as well as many independents.",
+        "description": "The presence description of the \"Amazon Music\" presence."
+    },
+    "descriptions.1cak": {
+        "message": "1CAK is an Indonesian entertainment site that provides images and videos uploaded by users. This site is also known as entertainment provider through Internet meme. 1CAK users can select and comment on images. Popular images appear on the main website",
+        "description": "The presence description of the \"1CAK\" presence."
+    },
+    "descriptions.agar.io": {
+        "message": "The smash hit game! Control your cell and eat other players to grow larger! Play with millions of players around the world and try to become the biggest cell of all!",
+        "description": "The presence description of the \"Agar.io\" presence."
+    },
+    "descriptions.1337x": {
+        "message": "1337x is a search engine to find your favorite torrents.",
+        "description": "The presence description of the \"1337x\" presence."
+    },
+    "descriptions.20xx": {
+        "message": "20XX is a unique platform MOBA which includes a variety of characters and maps to play on.",
+        "description": "The presence description of the \"20XX\" presence."
+    },
+    "descriptions.4anime": {
+        "message": "Watch anime online in high 1080p quality with english subtitles. Just sit back and relax!",
+        "description": "The presence description of the \"4anime\" presence."
+    },
+    "descriptions.anihub": {
+        "message": "Anihub is a brazilian website to provide a place to watch free anime content, both online and offline and without any abusive ads.",
+        "description": "The presence description of the \"Anihub\" presence."
+    },
+    "descriptions.all_the flavors": {
+        "message": "alltheflavors.com is a DIY recipe and flavor information site.",
+        "description": "The presence description of the \"All The Flavors\" presence."
+    },
+    "descriptions.巴哈姆特動畫瘋": {
+        "message": "Completely free animation platform.",
+        "description": "The presence description of the \"巴哈姆特動畫瘋\" presence."
+    },
+    "descriptions.aliexpress": {
+        "message": "Online shopping for the latest electronics, fashion, phone accessories, computer electronics, toys, home&garden, home appliances, tools, home improvement and more.",
+        "description": "The presence description of the \"AliExpress\" presence."
+    },
+    "descriptions.巴哈姆特": {
+        "message": "The largest animation and game community website for Chinese, providing ACG daily news, popular rankings, and a wealth of discussion and communication space, as well as brilliant personal audio and video live and blog posts.",
+        "description": "The presence description of the \"巴哈姆特\" presence."
+    },
+    "descriptions.网易云音乐": {
+        "message": "Netease Cloud Music is a freemium music streaming service developed and owned by NetEase, Inc.",
+        "description": "The presence description of the \"网易云音乐\" presence."
+    },
+    "descriptions.4gamers": {
+        "message": "An integrated company for planning, executing, marketing and broadcasting of e-sports in Taiwan .",
+        "description": "The presence description of the \"4gamers\" presence."
+    },
+    "descriptions.5mods": {
+        "message": "5Mods (also known as GTA5-Mods) is a place where you can get thousands of mods for Grand Theft Auto V",
+        "description": "The presence description of the \"5Mods\" presence."
+    },
+    "descriptions.8muses": {
+        "message": "Free Sex Comics, Adult Cartoons, 3D Porn and More.",
+        "description": "The presence description of the \"8muses\" presence."
+    },
+    "descriptions.4chan": {
+        "message": "4chan is a simple image-based bulletin board where anyone can post comments and share images. There are boards dedicated to a variety of topics, from Japanese animation and culture to videogames, music, and photography. Users do not need to register an account before participating in the community. Feel free to click on a board below that interests you and jump right in!",
+        "description": "The presence description of the \"4chan\" presence."
+    },
+    "descriptions.altdentifier": {
+        "message": "The best Discord security and checkpoint bot!",
+        "description": "The presence description of the \"Altdentifier\" presence."
+    },
+    "descriptions.amazon": {
+        "message": "Online shopping from the earth's biggest selection of books, magazines, music, DVDs, videos, electronics, computers, software, apparel & accessories, shoes, jewelry, tools & hardware, housewares, furniture, sporting goods, beauty & personal care, broadband & dsl, gourmet food & just about anything else.",
+        "description": "The presence description of the \"Amazon\" presence."
+    },
+    "descriptions.aniflix": {
+        "message": "Aniflix offers a variety of anime series. Also, every day many new anime episodes appear on GER Sub right after Japan release.",
+        "description": "The presence description of the \"Aniflix\" presence."
+    },
+    "descriptions.9anime": {
+        "message": "9anime is a streaming website where you can watch anime plus dubbed audio in English.",
+        "description": "The presence description of the \"9anime\" presence."
+    },
+    "descriptions.animes_house": {
+        "message": "One of the most confortable brazilian website for watch animes.",
+        "description": "The presence description of the \"Animes House\" presence."
+    },
+    "descriptions.anitürk": {
+        "message": "AniTurk is an online anime viewing site.",
+        "description": "The presence description of the \"AniTürk\" presence."
+    },
+    "descriptions.anime_soul": {
+        "message": "The Largest Anime Discord Server in the World!",
+        "description": "The presence description of the \"Anime Soul\" presence."
+    },
+    "descriptions.anilist": {
+        "message": "AniList: Track, Discover, Share Anime & Manga - Sign up for free!",
+        "description": "The presence description of the \"AniList\" presence."
+    },
+    "descriptions.apple_music": {
+        "message": "Apple Music is a music and video streaming service developed by Apple Inc. Users select music to stream to their device on-demand, or they can listen to existing, curated playlists. The service also includes the Internet radio station Beats 1, which broadcasts live to over 100 countries 24 hours a day.",
+        "description": "The presence description of the \"Apple Music\" presence."
+    },
+    "descriptions.animexnovel": {
+        "message": "Read novels and mangas.",
+        "description": "The presence description of the \"AnimeXNovel\" presence."
+    },
+    "descriptions.aninews": {
+        "message": "Main news about animes, mangas, light novels and everything related to the Otaku world! Read on your Computer, Notebook, Smartphone or any other Mobile Device.",
+        "description": "The presence description of the \"AniNews\" presence."
+    },
+    "descriptions.bandcamp": {
+        "message": "Discover amazing music and directly support the artists who make it.",
+        "description": "The presence description of the \"Bandcamp\" presence."
+    },
+    "descriptions.anime_news network": {
+        "message": "Anime News Network - The Internet's Most Trusted Anime News Source.",
+        "description": "The presence description of the \"Anime News Network\" presence."
+    },
+    "descriptions.astiga": {
+        "message": "Easily play back the music that is stored on your cloud service, directly in your browser or on your phone.",
+        "description": "The presence description of the \"Astiga\" presence."
+    },
+    "descriptions.bargrooves": {
+        "message": "Bargrooves curates bespoke soundtracks for discerning house music fans; compilations and playlists to suit your seasonal moods, featuring the best current dance music alongside well-loved classics. Use this extension to show your friends what your listening to.",
+        "description": "The presence description of the \"Bargrooves\" presence."
+    },
+    "descriptions.animepahe": {
+        "message": "Anime site with good bitrate video streaming in english sub with scheduled uploads and a growing library",
+        "description": "The presence description of the \"animepahe\" presence."
+    },
+    "descriptions.anontpp": {
+        "message": "Anontpp is the home to the anime streaming service, GoPlay. You can watched free shows uninterupted in HD with no ads.",
+        "description": "The presence description of the \"Anontpp\" presence."
+    },
+    "descriptions.anime-sugoi": {
+        "message": "Anime-Sugoi stream your favorite anime completely for free with thai-sub and thai sound! | This website may requied vpn for access, other country will blocked!",
+        "description": "The presence description of the \"Anime-Sugoi\" presence."
+    },
+    "descriptions.animelab": {
+        "message": "Watch the latest anime hits and simulcasts direct from Japan online in HD. AnimeLab is exclusive to Australia and New Zealand.",
+        "description": "The presence description of the \"AnimeLab\" presence."
+    },
+    "descriptions.animedigitalnetwork": {
+        "message": "Anime Digital Network is the best of the live animated Japan! See all Naruto Shippuden, Fairy Tail, Hunter x Hunter, Blue Exorcist, Code Geass, Vampire Knight, and more.",
+        "description": "The presence description of the \"AnimeDigitalNetwork\" presence."
+    },
+    "descriptions.animeradio.de": {
+        "message": "The radio for anime and gaming fans. We play your favorite music from Japan and the best from the West.",
+        "description": "The presence description of the \"AnimeRadio.de\" presence."
+    },
+    "descriptions.aniwatch": {
+        "message": "Aniwatch.me is a free anime streaming site with no ads and easy to use UI.",
+        "description": "The presence description of the \"Aniwatch\" presence."
+    },
+    "descriptions.astr.io": {
+        "message": "A free to play web browser based game where users play as a planet and destroy others!",
+        "description": "The presence description of the \"Astr.io\" presence."
+    },
+    "descriptions.bilibili": {
+        "message": "bilibili is a well-known video barrage website in China. Here is the most timely animation new fan, the best ACG atmosphere, the most creative Up master. Everyone can find a lot of joy here.",
+        "description": "The presence description of the \"bilibili\" presence."
+    },
+    "descriptions.animelizm": {
+        "message": "Watch Thai subbed/dubbed Animes Online for free.",
+        "description": "The presence description of the \"Animelizm\" presence."
+    },
+    "descriptions.animes_vision": {
+        "message": "Animes Vision is one of the largest Brazilian anime sites.",
+        "description": "The presence description of the \"Animes Vision\" presence."
+    },
+    "descriptions.askubuntu": {
+        "message": "Ask Ubuntu is a community driven question and answer website for the Ubuntu operating system. It is part of the Stack Exchange Network, running the same software as Stack Overflow. Members gain reputation based on the community's response to their questions and answers.",
+        "description": "The presence description of the \"AskUbuntu\" presence."
+    },
+    "descriptions.animeondemand": {
+        "message": "Your official and legal platform for German animes with Sub! Cheap subscription with the best video quality.",
+        "description": "The presence description of the \"AnimeOnDemand\" presence."
+    },
+    "descriptions.aranzulla.it": {
+        "message": "Discover the Aranzulla.it website to read guides and tutorials in Italian language.",
+        "description": "The presence description of the \"Aranzulla.it\" presence."
+    },
+    "descriptions.anime4you": {
+        "message": "Anime4You lets you watch a variety of Animes with german dubs or subs. | INFO: Currently not showing the pause/play status and time left. Will be added soon!",
+        "description": "The presence description of the \"Anime4You\" presence."
+    },
+    "descriptions.aperturebot": {
+        "message": "ApertureBot is a fork of b1nzy's rowboat, a utilitarian and administration assistant for Discord.",
+        "description": "The presence description of the \"ApertureBot\" presence."
+    },
+    "descriptions.bang_dream! wikia": {
+        "message": "Presence for the English Wikia of the BanG Dream! series",
+        "description": "The presence description of the \"BanG Dream! Wikia\" presence."
+    },
+    "descriptions.animekage": {
+        "message": "Online anime series translated into Romanian. Naruto, Naruto Shippuden, Bleach, Gintama, and more. Our site offers translations to hundreds of anime and manga subtitles in Romanian.",
+        "description": "The presence description of the \"AnimeKage\" presence."
+    },
+    "descriptions.arena_of kings": {
+        "message": "Arena of Kings is a next-gen fast-paced PvP Arena Game played in the browser. Join forces with heroes to claim the throne!",
+        "description": "The presence description of the \"Arena of Kings\" presence."
+    },
+    "descriptions.bbc_iplayer": {
+        "message": "Watch live BBC TV channels, enjoy TV programmes you missed and view exclusive content on BBC iPlayer.",
+        "description": "The presence description of the \"BBC iPlayer\" presence."
+    },
+    "descriptions.animes_online": {
+        "message": "Watch Animes Online for free in HD.",
+        "description": "The presence description of the \"Animes Online\" presence."
+    },
+    "descriptions.animeworld": {
+        "message": "Discover our Anime Streaming (Italian Subbed). Download or stream your favorite series completely for free.",
+        "description": "The presence description of the \"AnimeWorld\" presence."
+    },
+    "descriptions.aternos": {
+        "message": "Minecraft servers. Free. Forever. Your very own Minecraft server, the only one that stays free forever.",
+        "description": "The presence description of the \"Aternos\" presence."
+    },
+    "descriptions.audiomack": {
+        "message": "Audiomack is a free music streaming and discovery platform that allows artists to share their music and fans to discover new artists, songs, albums, mixtapes, playlists and more.",
+        "description": "The presence description of the \"Audiomack\" presence."
+    },
+    "descriptions.anime_music quiz": {
+        "message": "Anime Music Quiz is a game platform that allows friends to compete against each other anime music knowledge.",
+        "description": "The presence description of the \"Anime Music Quiz\" presence."
+    },
+    "descriptions.animedao": {
+        "message": "Watch anime episodes and movies with English subtitles in SD and HD on any device: pc, tablet, mobile.",
+        "description": "The presence description of the \"AnimeDao\" presence."
+    },
+    "descriptions.animesaturn": {
+        "message": "On our website AnimeSaturn you will find Anime (Sub ITA). Download or stream your favorite series completely for free.",
+        "description": "The presence description of the \"AnimeSaturn\" presence."
+    },
+    "descriptions.azur_lane wiki": {
+        "message": "Azur Lane English Wiki!",
+        "description": "The presence description of the \"Azur Lane Wiki\" presence."
+    },
+    "descriptions.anime47": {
+        "message": "Anime Vietsub Online",
+        "description": "The presence description of the \"anime47\" presence."
+    },
+    "descriptions.apple": {
+        "message": " Apple Inc. is an American multinational company that aims to design and market consumer electronics, computer software and personal computers.",
+        "description": "The presence description of the \"Apple\" presence."
+    },
+    "descriptions.animeflv": {
+        "message": "AnimeFLV is a streaming website where you can watch anime with Spanish subtitles.",
+        "description": "The presence description of the \"AnimeFLV\" presence."
+    },
+    "descriptions.buzzfeed": {
+        "message": "BuzzFeed, Inc. is an American Internet media, news and entertainment company with a focus on digital media; it is based in New York City. BuzzFeed was founded in 2006 by Jonah Peretti and John S. Johnson III, to focus on tracking viral content.",
+        "description": "The presence description of the \"BuzzFeed\" presence."
+    },
+    "descriptions.byte": {
+        "message": "A new looping app by the creator of vine.",
+        "description": "The presence description of the \"Byte\" presence."
+    },
+    "descriptions.championgg": {
+        "message": "Champion.gg provides League of Legends champion statistics, guides, builds, runes, masteries, skill orders and counters by role - including Win Rate, Ban Rate...",
+        "description": "The presence description of the \"Championgg\" presence."
+    },
+    "descriptions.chickenfm": {
+        "message": "ChickenFM is an online radio station that plays the latest hits!",
+        "description": "The presence description of the \"ChickenFM\" presence."
+    },
+    "descriptions.canva": {
+        "message": "Canva is a simplified graphic-design tool, founded in 2012. It uses a drag-and-drop format and provides access to photographs, vector images, graphics, and fonts.",
+        "description": "The presence description of the \"Canva\" presence."
+    },
+    "descriptions.carl-bot": {
+        "message": "A fully customizable and modular discord bot featuring reaction roles, automod, logging, custom commands and much more.",
+        "description": "The presence description of the \"Carl-bot\" presence."
+    },
+    "descriptions.chess": {
+        "message": "Chess.com is the main internet chess server. It is also an Internet forum and a social network dedicated to chess.",
+        "description": "The presence description of the \"Chess\" presence."
+    },
+    "descriptions.board_game online": {
+        "message": "BG Online is an online interactive website where you can play many classical board games with other users.",
+        "description": "The presence description of the \"Board Game Online\" presence."
+    },
+    "descriptions.bots_on discord": {
+        "message": "Bots on Discord is listing discord bots.",
+        "description": "The presence description of the \"Bots on Discord\" presence."
+    },
+    "descriptions.change": {
+        "message": "Change the world",
+        "description": "The presence description of the \"Change\" presence."
+    },
+    "descriptions.click_jogos": {
+        "message": "Founded in 2004, Click Jogos is now the largest online gaming portal in Brazil. All titles are free and do not require registration. Our goal is to provide an incredible entertainment experience.",
+        "description": "The presence description of the \"Click Jogos\" presence."
+    },
+    "descriptions.bounce": {
+        "message": "Bounce Radio is a 24/7 international hit music station that provides hit music to everyone. Made by gamers for gamers.",
+        "description": "The presence description of the \"Bounce\" presence."
+    },
+    "descriptions.brony_radio germany": {
+        "message": "Brony Radio Germany is the web radio for German-speaking Bronies. We stream 24/7 music for everyone and it's all about ponies.",
+        "description": "The presence description of the \"Brony Radio Germany\" presence."
+    },
+    "descriptions.bundle_haber": {
+        "message": "The fastest way to reach news.",
+        "description": "The presence description of the \"Bundle Haber\" presence."
+    },
+    "descriptions.cartooncrazy.net": {
+        "message": "Watch cartoons online at www.cartooncrazy.net and Stream 25000 Anime English dubbed in High Quality! You can watch anime and cartoons in ease.",
+        "description": "The presence description of the \"CartoonCrazy.net\" presence."
+    },
+    "descriptions.blockdit": {
+        "message": "Blockdit is a social network platform that connects all great ideas together. Blockdit offers you remarkable stories, ideas, and knowledges in 'blocks' which are easy to read ",
+        "description": "The presence description of the \"Blockdit\" presence."
+    },
+    "descriptions.buzzfeed_news": {
+        "message": "BuzzFeed, Inc. is an American Internet media, news and entertainment company with a focus on digital media; it is based in New York City. BuzzFeed was founded in 2006 by Jonah Peretti and John S. Johnson III, to focus on tracking viral content.",
+        "description": "The presence description of the \"BuzzFeed News\" presence."
+    },
+    "descriptions.chip_online": {
+        "message": "CHIP Online is the independent web portal of the CHIP brand.",
+        "description": "The presence description of the \"CHIP Online\" presence."
+    },
+    "descriptions.blutv": {
+        "message": "BluTV is a platform where you can watch series, movies and television channels in Turkey.",
+        "description": "The presence description of the \"BluTV\" presence."
+    },
+    "descriptions.bukkit": {
+        "message": "Bukkit is a free, open-source, software that provides the means to extend the popular Minecraft multiplayer server.",
+        "description": "The presence description of the \"Bukkit\" presence."
+    },
+    "descriptions.boo.rip": {
+        "message": "Boo is a elite connection optimizer that aims to improve user gameplay.",
+        "description": "The presence description of the \"Boo.rip\" presence."
+    },
+    "descriptions.bing": {
+        "message": "Bing is a search engine that finds and organizes the answers you need so you can make faster, more informed decisions.",
+        "description": "The presence description of the \"Bing\" presence."
+    },
+    "descriptions.bungie": {
+        "message": "Bungie.net is the home for all your Destiny/Destiny Two needs!",
+        "description": "The presence description of the \"Bungie\" presence."
+    },
+    "descriptions.bs.to": {
+        "message": "See series online.",
+        "description": "The presence description of the \"bs.to\" presence."
+    },
+    "descriptions.branitube": {
+        "message": "Branitube is a brazillian anime streaming site.",
+        "description": "The presence description of the \"Branitube\" presence."
+    },
+    "descriptions.chaturbate": {
+        "message": "Chaturbate is a popular webcam site which launched in 2011 where amateurs livestream erotic or pornographic performances.",
+        "description": "The presence description of the \"Chaturbate\" presence."
+    },
+    "descriptions.cliffsnotes": {
+        "message": "CliffsNotes study guides are written by real teachers and professors, so no matter what you're studying, CliffsNotes can ease your homework headaches and help you score high on exams.",
+        "description": "The presence description of the \"CliffsNotes\" presence."
+    },
+    "descriptions.crunchyroll": {
+        "message": "Crunchyroll is the world’s largest destination for anime and manga, boasting a global community of more than 45 million registered users and over 2 million subscribers.",
+        "description": "The presence description of the \"Crunchyroll\" presence."
+    },
+    "descriptions.di.fm": {
+        "message": "Di.FM is an Internet radio broadcaster consisting of over 90 channels dedicated exclusively to electronic music, such as house, trance, techno, drum and bass, and dubstep.",
+        "description": "The presence description of the \"Di.FM\" presence."
+    },
+    "descriptions.gartic.io": {
+        "message": "Play Gartic.io online and for free. Draw and guess the words as fastest as you can! Join on worldwide rooms or create your own.",
+        "description": "The presence description of the \"Gartic.io\" presence."
+    },
+    "descriptions.dafont": {
+        "message": "Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.",
+        "description": "The presence description of the \"DaFont\" presence."
+    },
+    "descriptions.discord_bots": {
+        "message": "Discord bots is a website that lists discord bots.",
+        "description": "The presence description of the \"Discord Bots\" presence."
+    },
+    "descriptions.discord": {
+        "message": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+        "description": "The presence description of the \"Discord\" presence."
+    },
+    "descriptions.durarara": {
+        "message": "Durarara!! fan community, DOLLARS Chatroom.",
+        "description": "The presence description of the \"Durarara\" presence."
+    },
+    "descriptions.e621": {
+        "message": "e621 is a mature image board replacement for the image board Sidechan. A general audience image board, e926 (formerly e961) complements this site. E621 runs off of the Ouroboros platform, a danbooru styled software specifically designed for the site.",
+        "description": "The presence description of the \"e621\" presence."
+    },
+    "descriptions.edge_me please": {
+        "message": "It's a edging instruction website if you are into it.",
+        "description": "The presence description of the \"Edge Me Please\" presence."
+    },
+    "descriptions.electron": {
+        "message": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+        "description": "The presence description of the \"Electron\" presence."
+    },
+    "descriptions.full_programlar i̇ndir": {
+        "message": "Full Programlar İndir is a website that allows you to download many programs and games",
+        "description": "The presence description of the \"Full Programlar İndir\" presence."
+    },
+    "descriptions.gamestar": {
+        "message": "GameStar.de provides you with tests, previews, videos, reports and news about PC games and hardware. We deliver game journalism that you can trust.",
+        "description": "The presence description of the \"GameStar\" presence."
+    },
+    "descriptions.ekşi_şeyler": {
+        "message": "Ekşi Şeyler is the alter website of ekşi sozluk for global and local news.",
+        "description": "The presence description of the \"Ekşi Şeyler\" presence."
+    },
+    "descriptions.expressradio": {
+        "message": "Express Radio is a non-profitable radio station providing you with the latest and best hits.",
+        "description": "The presence description of the \"ExpressRadio\" presence."
+    },
+    "descriptions.facebook": {
+        "message": "Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+        "description": "The presence description of the \"Facebook\" presence."
+    },
+    "descriptions.folding@home": {
+        "message": "Folding@home is a project focused on disease research. The problems we're solving require so many computer calcul­ations - and we need your help to find the cures! Fight diseases Together with us.",
+        "description": "The presence description of the \"Folding@home\" presence."
+    },
+    "descriptions.funimation": {
+        "message": "Stream and buy official anime including My Hero Academia, Drifters and Fairy Tail. Watch free anime online or subscribe for more.",
+        "description": "The presence description of the \"Funimation\" presence."
+    },
+    "descriptions.dlive": {
+        "message": "DLive.tv is the largest live streaming community on blockchain that powered by Lino blockchain.",
+        "description": "The presence description of the \"dlive\" presence."
+    },
+    "descriptions.ekşi_sözlük": {
+        "message": "ekşi sözlük is a collaborative hypertext 'dictionary' based on the concept of web sites built up on user contribution.",
+        "description": "The presence description of the \"ekşi sözlük\" presence."
+    },
+    "descriptions.flyte_scribe": {
+        "message": "flyte scribe is a blog written by edo/flyte, telling the interwebs about his current life at Tokyo, Japan. Mainly talks about photography and the like.",
+        "description": "The presence description of the \"flyte scribe\" presence."
+    },
+    "descriptions.cytube": {
+        "message": "Content Sharing Platform with wide platform support of simultaneously enjoying videos/music with a live chat and tons of customization/moderation tools",
+        "description": "The presence description of the \"CyTube\" presence."
+    },
+    "descriptions.dirtmc": {
+        "message": "Home to MrCrainer, DirtMC is a skyblock server packed with unique features.",
+        "description": "The presence description of the \"DirtMC\" presence."
+    },
+    "descriptions.enthix.net": {
+        "message": "MultiPlatform Games Network",
+        "description": "The presence description of the \"enthix.net\" presence."
+    },
+    "descriptions.flare_radio": {
+        "message": "Flare is an online radio community playing you the biggest tunes from around the globe all the time.",
+        "description": "The presence description of the \"Flare Radio\" presence."
+    },
+    "descriptions.game_jolt": {
+        "message": "Game Jolt is a hosting service for freeware and commercial video games with social functions.",
+        "description": "The presence description of the \"Game Jolt\" presence."
+    },
+    "descriptions.dizilla": {
+        "message": "Dizilla is one of the most beautiful and populer Turkish TV series website.",
+        "description": "The presence description of the \"Dizilla\" presence."
+    },
+    "descriptions.fifa_web app": {
+        "message": "Manage your FIFA Ultimate Team (FUT) while you're away from your console or PC.",
+        "description": "The presence description of the \"FIFA Web App\" presence."
+    },
+    "descriptions.flixtor": {
+        "message": "FlixTor is a fully automated video search engine.",
+        "description": "The presence description of the \"FlixTor\" presence."
+    },
+    "descriptions.garden": {
+        "message": "A French Minecraft server cultivated by dedicated players.",
+        "description": "The presence description of the \"Garden\" presence."
+    },
+    "descriptions.comic_space": {
+        "message": "One scanlator with a website clean to read online.",
+        "description": "The presence description of the \"Comic Space\" presence."
+    },
+    "descriptions.dailymotion": {
+        "message": "On dailymotion, you can discover and watch new music, news, sports, and trailers from dailymotion's best creators, brands, and channels",
+        "description": "The presence description of the \"dailymotion\" presence."
+    },
+    "descriptions.deezer": {
+        "message": "Listen to all the songs you love anytime, anywhere.",
+        "description": "The presence description of the \"Deezer\" presence."
+    },
+    "descriptions.dizibox": {
+        "message": "DiziBOX is one of the biggest Turkish foreign TV show providers on internet.",
+        "description": "The presence description of the \"DiziBOX\" presence."
+    },
+    "descriptions.emby": {
+        "message": "Your personal media on any device. Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device.",
+        "description": "The presence description of the \"Emby\" presence."
+    },
+    "descriptions.fandom": {
+        "message": "The entertainment site where fans come first. Your daily source for all things TV, movies, and games, including Star Wars, Fallout, Marvel, DC and more.\nThis presence works on the editoral side of Fandom (www.fandom.com) and the wiki side of fandom (formerly Wikia).",
+        "description": "The presence description of the \"Fandom\" presence."
+    },
+    "descriptions.derpibooru": {
+        "message": "Derpibooru is an image repository which lets people bring together art from all over the internet, annotate the images with tags and an original source URL for easy searching, and discuss the artwork.",
+        "description": "The presence description of the \"Derpibooru\" presence."
+    },
+    "descriptions.discord_bot list": {
+        "message": "Discord Bot List is listing discord bots.",
+        "description": "The presence description of the \"Discord Bot List\" presence."
+    },
+    "descriptions.diziay": {
+        "message": "Diziay is an online series and movie viewing site that offers the possibility of watching 1080p.",
+        "description": "The presence description of the \"Diziay\" presence."
+    },
+    "descriptions.downdetector": {
+        "message": "Real-time problem & outage monitoring",
+        "description": "The presence description of the \"Downdetector\" presence."
+    },
+    "descriptions.ecosia": {
+        "message": "Ecosia uses the ad revenue from your searches to plant trees where they are needed the most.",
+        "description": "The presence description of the \"Ecosia\" presence."
+    },
+    "descriptions.fanfiction": {
+        "message": "FanFiction | unleash your imagination",
+        "description": "The presence description of the \"Fanfiction\" presence."
+    },
+    "descriptions.gartic.com.br": {
+        "message": "Play Gartic.com.br online and for free without needing to download anything!",
+        "description": "The presence description of the \"Gartic.com.br\" presence."
+    },
+    "descriptions.gdbrowser": {
+        "message": "Browse all of Geometry Dash's online features, right from this handy little website! Levels, profiles, leaderboards, comments, and more!",
+        "description": "The presence description of the \"GDBrowser\" presence."
+    },
+    "descriptions.dank_memer": {
+        "message": "Dank Memer is packed full of memes, fun, and unique experiences! Whether you gamble, steal from your friends, check the latest hot memes, roast your friends, create your own memes, or use one of our other 260+ commands.",
+        "description": "The presence description of the \"Dank Memer\" presence."
+    },
+    "descriptions.discordtrlist.xyz": {
+        "message": "Turkey's most advanced bot list",
+        "description": "The presence description of the \"discordtrlist.xyz\" presence."
+    },
+    "descriptions.duckduckgo": {
+        "message": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.",
+        "description": "The presence description of the \"DuckDuckGo\" presence."
+    },
+    "descriptions.eggsy.codes": {
+        "message": "eggsy.xyz is where EGGSY (PV and TM) hosts his projects such as PreMiD releated presence usage stats, metadata creator and much more!",
+        "description": "The presence description of the \"eggsy.codes\" presence."
+    },
+    "descriptions.esl": {
+        "message": "World's largest eSports company.",
+        "description": "The presence description of the \"ESL\" presence."
+    },
+    "descriptions.fizy": {
+        "message": " fizy is an online music search engine based in Turkey and available in Turkey and Ukraine.",
+        "description": "The presence description of the \"fizy\" presence."
+    },
+    "descriptions.fortnite-api": {
+        "message": "A powerful API containing data of all cosmetics, daily shop, news and more!",
+        "description": "The presence description of the \"Fortnite-API\" presence."
+    },
+    "descriptions.comedy_central": {
+        "message": "Watch the latest Comedy Central shows such as South Park, The Daily Show, and more.",
+        "description": "The presence description of the \"Comedy Central\" presence."
+    },
+    "descriptions.etsy": {
+        "message": "Find the perfect handmade gift, vintage & on-trend clothes, unique jewelry, and more... lots more.",
+        "description": "The presence description of the \"Etsy\" presence."
+    },
+    "descriptions.flipanim": {
+        "message": "Create flipbook animations online!",
+        "description": "The presence description of the \"FlipAnim\" presence."
+    },
+    "descriptions.fnbr.co": {
+        "message": "fnbr.co was created to serve as a directory for Fortnite Cosmetics and help spread community awareness of items within Fortnite Battle Royale.",
+        "description": "The presence description of the \"fnbr.co\" presence."
+    },
+    "descriptions.gbatemp.net": {
+        "message": "GBAtemp is a user friendly independent video game community with millions of posts about 3DS and Nintendo DS, Wii and Wii U, Switch and other general consoles including PC gaming.",
+        "description": "The presence description of the \"GBAtemp.net\" presence."
+    },
+    "descriptions.codepen": {
+        "message": "CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.",
+        "description": "The presence description of the \"CodePen\" presence."
+    },
+    "descriptions.dockerhub": {
+        "message": "Docker Hub is a service provided by Docker for finding and sharing container images with your team.",
+        "description": "The presence description of the \"DockerHub\" presence."
+    },
+    "descriptions.dアニメストア": {
+        "message": "No.1 anime streaming website in Japan! Free for the first month! Unlimited viewing of over 2,900 anime works for 400 yen per month (excluding taxes)! You can use other than DoCoMo mobile devices. Even better quality on tablets, PCs, Chromecasts, and Fire TV!",
+        "description": "The presence description of the \"dアニメストア\" presence."
+    },
+    "descriptions.defly.io": {
+        "message": "Fly your helicopter and shoot at enemies. Build walls to protect yourself and conquer as much territory as possible.",
+        "description": "The presence description of the \"Defly.io\" presence."
+    },
+    "descriptions.dizilab": {
+        "message": "dizilab is one of the biggest Turkish foreign TV show providers on internet.",
+        "description": "The presence description of the \"dizilab\" presence."
+    },
+    "descriptions.dizipub": {
+        "message": "Dizipub is a website that you can watch your favorite series and films.",
+        "description": "The presence description of the \"Dizipub\" presence."
+    },
+    "descriptions.duolingo": {
+        "message": "Languages can be learned in a playful way. Duolingo is 100% free, fun and scientifically proven.",
+        "description": "The presence description of the \"Duolingo\" presence."
+    },
+    "descriptions.einthusan": {
+        "message": "Einthusan: The leading Premium South Asian streaming content provider of full-length feature films in on-demand superior HD. We're expanding to bring you high-bitrate audio albums, movie clips, and music videos. Explore the social entertainment hub where users discover and consume South Asian content at it's best.",
+        "description": "The presence description of the \"Einthusan\" presence."
+    },
+    "descriptions.emojipedia": {
+        "message": "The emoji search engine. A fast emoji search experience with options to browse every emoji by name, category, or platform.",
+        "description": "The presence description of the \"Emojipedia\" presence."
+    },
+    "descriptions.filmmodu": {
+        "message": "filmmodu is a Turkish service that provides latest movies.",
+        "description": "The presence description of the \"filmmodu\" presence."
+    },
+    "descriptions.coolmathgames": {
+        "message": "Coolmath Games is a brain-training site, for everyone, where logic & thinking & math meets fun & games.",
+        "description": "The presence description of the \"CoolMathGames\" presence."
+    },
+    "descriptions.curseforge": {
+        "message": "CurseForge allows for the uploading and reviewing of plugins, add-ons, and modifications for various games.",
+        "description": "The presence description of the \"CurseForge\" presence."
+    },
+    "descriptions.custom_status": {
+        "message": "Custom Status is a way to set custom statuses using PreMiD. You can customize everything but using custom images. You have to visit [this page](https://eggsy.xyz/projects/premid/custom-status) to start using!",
+        "description": "The presence description of the \"Custom Status\" presence."
+    },
+    "descriptions.deviantart": {
+        "message": "Founded in August 2000, DeviantArt is the largest online social network for artists and art enthusiasts, and a platform for emerging and established artists to exhibit, promote, and share their works with an enthusiastic, art-centric community.",
+        "description": "The presence description of the \"DeviantArt\" presence."
+    },
+    "descriptions.discord.bio": {
+        "message": "Create a profile in under 30 seconds.",
+        "description": "The presence description of the \"Discord.bio\" presence."
+    },
+    "descriptions.discord.js": {
+        "message": "Discord.js is a powerful node.js module that allows you to interact with the Discord API very easily.",
+        "description": "The presence description of the \"Discord.js\" presence."
+    },
+    "descriptions.discordlabs.org": {
+        "message": "Check our our amazing list of lab approved discord bots!",
+        "description": "The presence description of the \"DiscordLabs.org\" presence."
+    },
+    "descriptions.dyno": {
+        "message": "A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier.",
+        "description": "The presence description of the \"Dyno\" presence."
+    },
+    "descriptions.gamepedia": {
+        "message": "Gamepedia is the largest video game wiki platform on the web, featuring thousands of community-driven wiki projects.\nOwned and operated by FANDOM, Gamepedia is home to everything from indie title wikis to some of the best-known gaming wikis such as the Official Minecraft Wiki, Leaguepedia, and the Official ARK Wiki.",
+        "description": "The presence description of the \"Gamepedia\" presence."
+    },
+    "descriptions.dashnet": {
+        "message": "DashNet by Orteil and Opti, a 2-people team that makes browser games, generators, and other wacky experiments.",
+        "description": "The presence description of the \"DashNet\" presence."
+    },
+    "descriptions.disney+": {
+        "message": "Disney+ is the exclusive, unlimited access home for of all the best from Disney, Pixar, Marvel, Star Wars & National Geographic.",
+        "description": "The presence description of the \"Disney+\" presence."
+    },
+    "descriptions.domino's_pizza (uk)": {
+        "message": "Order your favourite pizza custom made to your taste",
+        "description": "The presence description of the \"Domino's Pizza (UK)\" presence."
+    },
+    "descriptions.dueling_nexus": {
+        "message": "duelingnexus.com is a free online Yu-Gi-Oh simulator for browsers.",
+        "description": "The presence description of the \"Dueling Nexus\" presence."
+    },
+    "descriptions.ebay": {
+        "message": "Buy and sell electronics, cars, fashion apparel, collectibles, sporting goods, digital cameras, baby items, coupons, and everything else on eBay, the world's online marketplace.",
+        "description": "The presence description of the \"eBay\" presence."
+    },
+    "descriptions.fimfiction": {
+        "message": "An online repository for fan fiction inspired by My Little Pony Friendship is Magic.",
+        "description": "The presence description of the \"FimFiction\" presence."
+    },
+    "descriptions.gelbooru": {
+        "message": "NSFW Anime Image board running on Gelbooru",
+        "description": "The presence description of the \"Gelbooru\" presence."
+    },
+    "descriptions.genius": {
+        "message": "Genius is an American digital media company. Originally founded in August 2009 by Tom Lehman, Ilan Zechory, and Mahbod Moghadam, the site allows users to provide annotations and interpretation of song lyrics, news stories, sources, poetry, and documents.",
+        "description": "The presence description of the \"Genius\" presence."
+    },
+    "descriptions.complex_radio": {
+        "message": "Complex Radio provides quality music to its listeners, we also always have applications open for new presenters!",
+        "description": "The presence description of the \"Complex Radio\" presence."
+    },
+    "descriptions.discord_templates": {
+        "message": "Start creating your own community with our awesome templates. Build your own kingdom.",
+        "description": "The presence description of the \"Discord Templates\" presence."
+    },
+    "descriptions.fiplay": {
+        "message": "FiPlay is a online movie/series streaming site from Finland.",
+        "description": "The presence description of the \"FiPlay\" presence."
+    },
+    "descriptions.crowdin": {
+        "message": "Crowdin is a cloud-based solution that streamlines localization management for your team.",
+        "description": "The presence description of the \"Crowdin\" presence."
+    },
+    "descriptions.curvefm": {
+        "message": "Curve Radio is an online radio station purely based on providing amazing entertainment to its listeners.",
+        "description": "The presence description of the \"CurveFM\" presence."
+    },
+    "descriptions.deepl": {
+        "message": "DeepL lets you translate texts to other languages using an artificial intelligence. One of the most special features of it is, that you're able to click a word to be able to replace it with another word you think would fit more. All in all, DeepL is pretty useful for quickly translating large texts to a language you already know, but not too much, for languages you don't know.",
+        "description": "The presence description of the \"DeepL\" presence."
+    },
+    "descriptions.divine_discord bot list": {
+        "message": "A small list of Discord bots for your servers",
+        "description": "The presence description of the \"Divine Discord Bot List\" presence."
+    },
+    "descriptions.edgenuity": {
+        "message": "Edgenuity is an online classroom program used to teach students what they need to learn through online methods.",
+        "description": "The presence description of the \"Edgenuity\" presence."
+    },
+    "descriptions.g2a": {
+        "message": "Buy & Sell Online: PC Games, Software, Gift Cards and More on G2A.COM",
+        "description": "The presence description of the \"G2A\" presence."
+    },
+    "descriptions.google_meet": {
+        "message": " Google Meet is a communication platform, developed by Google, which includes instant messaging, video chat, SMS and VOIP.",
+        "description": "The presence description of the \"Google Meet\" presence."
+    },
+    "descriptions.gtaforums": {
+        "message": "GTAForums is the largest and ever-growing fan forum dedicated to the Grand Theft Auto series and Rockstar Games.",
+        "description": "The presence description of the \"GTAForums\" presence."
+    },
+    "descriptions.globoplay": {
+        "message": "Watch the best entertainment videos, live sports, journalism, and more whenever and wherever you want.",
+        "description": "The presence description of the \"globoplay\" presence."
+    },
+    "descriptions.hangout_hotel": {
+        "message": "Hangout Hotel is a fansite for the popular game - Habbo. We at Hangout Hotel, are always haing events, interacting with our players, and giving away free stuff every few days! We have our music player 'Bounce' On our habbo, for you to enjoy some music, while playing Hangout Hotel! :)",
+        "description": "The presence description of the \"Hangout Hotel\" presence."
+    },
+    "descriptions.gitbook": {
+        "message": "Share knowledge, boost your team's productivity and make your users happy.",
+        "description": "The presence description of the \"Gitbook\" presence."
+    },
+    "descriptions.gitea": {
+        "message": "Gitea is an Open-Source Git Platform heavily inspired by GitHub",
+        "description": "The presence description of the \"Gitea\" presence."
+    },
+    "descriptions.google_translate": {
+        "message": "Google's free service instantly translates words, phrases, and web pages between English and over 100 other languages.",
+        "description": "The presence description of the \"Google Translate\" presence."
+    },
+    "descriptions.giphy": {
+        "message": "Giphy is a Gif search and creation engine.",
+        "description": "The presence description of the \"Giphy\" presence."
+    },
+    "descriptions.gravity_radio": {
+        "message": "Down to Earth Radio",
+        "description": "The presence description of the \"Gravity Radio\" presence."
+    },
+    "descriptions.hanime": {
+        "message": "Watch hentai online free download HD on mobile phone tablet laptop desktop. Stream online, regularly released uncensored, subbed, in 720p and 1080p!",
+        "description": "The presence description of the \"hanime\" presence."
+    },
+    "descriptions.hltv": {
+        "message": "The leading CS:GO site in the world, featuring news, demos, pictures, statistics, on-site coverage and much much more!",
+        "description": "The presence description of the \"HLTV\" presence."
+    },
+    "descriptions.glynet": {
+        "message": "Glynet is a social media website that launched newly.",
+        "description": "The presence description of the \"Glynet\" presence."
+    },
+    "descriptions.google_calendar": {
+        "message": "Google Calendar is a time-management and scheduling calendar service developed by Google.",
+        "description": "The presence description of the \"Google Calendar\" presence."
+    },
+    "descriptions.guilded.gg": {
+        "message": "Guilded is the new standard in gaming team management. With Discord bots, Overwatch stats, Fortnite scrims, CS:GO team finder, Destiny 2 LFG, and more.",
+        "description": "The presence description of the \"Guilded.gg\" presence."
+    },
+    "descriptions.hbo_go": {
+        "message": "HBO GO is HBO’s streaming service offered a participating television providers that gives you unlimited access to HBO on your computer, mobile, tablet and other devices.",
+        "description": "The presence description of the \"HBO GO\" presence."
+    },
+    "descriptions.gogoanime": {
+        "message": "Watch anime online in English. You can watch free series and movies online with English subtitles.",
+        "description": "The presence description of the \"Gogoanime\" presence."
+    },
+    "descriptions.google_docs": {
+        "message": "Google Docs is a word processor included as part of a free, web-based software office suite offered by Google within its Google Drive service. This service also includes Google Sheets and Google Slides, a spreadsheet and presentation program respectively.",
+        "description": "The presence description of the \"Google Docs\" presence."
+    },
+    "descriptions.hypixel": {
+        "message": "Play award winning minecraft games and mini-games with your friends for free. Only on the Hypixel minecraft server!",
+        "description": "The presence description of the \"Hypixel\" presence."
+    },
+    "descriptions.google_play music": {
+        "message": "Free radio for everything you do. Store 50,000 tracks from your personal collection. Subscribe for on-demand access to 40 million songs and offline listening.",
+        "description": "The presence description of the \"Google Play Music\" presence."
+    },
+    "descriptions.geoguessr": {
+        "message": "GeoGuessr is a web-based geographic discovery game designed by Anton Wallén, a Swedish IT consultant, released on 9 May 2013.",
+        "description": "The presence description of the \"GeoGuessr\" presence."
+    },
+    "descriptions.glitch": {
+        "message": "Glitch is the friendly community where you can find or create the app of your dreams. Over a million people have become part of the Glitch community, creating amazing apps, bots, websites, art projects, virtual reality experiences, interactive infographics and much more.",
+        "description": "The presence description of the \"Glitch\" presence."
+    },
+    "descriptions.goyabu": {
+        "message": "Watch online anime in HD, subtitled or dubbed, on your mobile or computer here on Goyabu, without an online anime portal!",
+        "description": "The presence description of the \"Goyabu\" presence."
+    },
+    "descriptions.groovy": {
+        "message": "Groovy is an easy-to-use music bot that supports every major site, including Spotify.",
+        "description": "The presence description of the \"Groovy\" presence."
+    },
+    "descriptions.gmail": {
+        "message": "Gmail is a free email service developed by Google. Users can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols. Gmail started as a limited beta release on April 1, 2004 and ended its testing phase on July 7, 2009.",
+        "description": "The presence description of the \"Gmail\" presence."
+    },
+    "descriptions.highlowradio": {
+        "message": "HighLow Radio is a station of all hours. Running 24/7, you can be sure to get your licensed tunes, no matter the time. Sit down in the morning with a tea or coffee, tuning into our breakfast shows, or on your lunch break with food in hand, we're even online in your spare time, so no matter what you are doing, you can tune in.",
+        "description": "The presence description of the \"HighLowRadio\" presence."
+    },
+    "descriptions.htmlcsscolor": {
+        "message": "The ultimate color collection!",
+        "description": "The presence description of the \"htmlcsscolor\" presence."
+    },
+    "descriptions.humble_bundle": {
+        "message": "Pay what you want. Support charity. Get awesome games.",
+        "description": "The presence description of the \"Humble Bundle\" presence."
+    },
+    "descriptions.github": {
+        "message": "GitHub is a project management and code versioning system as well as a social network platform made for developers.",
+        "description": "The presence description of the \"GitHub\" presence."
+    },
+    "descriptions.gittigidiyor": {
+        "message": "GittiGidiyor is a popular shopping website in Turkey. It is the sub organization of eBay in Turkey.",
+        "description": "The presence description of the \"GittiGidiyor\" presence."
+    },
+    "descriptions.habbofests": {
+        "message": "Habbo fansite",
+        "description": "The presence description of the \"HabboFests\" presence."
+    },
+    "descriptions.hackernoon": {
+        "message": "HackerNoon is an Independent Tech Media Site",
+        "description": "The presence description of the \"HackerNoon\" presence."
+    },
+    "descriptions.i_love music": {
+        "message": "The best Web-Radio of Germany - The best Music for everyone!",
+        "description": "The presence description of the \"I Love Music\" presence."
+    },
+    "descriptions.gitlab": {
+        "message": "GitLab is a project management and code versioning system as well as a social network platform made for developers.",
+        "description": "The presence description of the \"GitLab\" presence."
+    },
+    "descriptions.google_classroom": {
+        "message": "Google Classroom is a free web service, developed by Google for schools, that aims to simplify creating, distributing, and grading assignments in a paperless way. The primary purpose of Google Classroom is to streamline the process of sharing files between teachers and students.",
+        "description": "The presence description of the \"Google Classroom\" presence."
+    },
+    "descriptions.google_drive": {
+        "message": "Google Drive is a file storage and synchronization service developed by Google. Launched on April 24, 2012, Google Drive allows users to store files on their servers, synchronize files across devices, and share files.",
+        "description": "The presence description of the \"Google Drive\" presence."
+    },
+    "descriptions.honeygain": {
+        "message": "Honeygain is a crowdsourced network company which enables other businesses to conduct web intelligence, market research and content delivery.",
+        "description": "The presence description of the \"Honeygain\" presence."
+    },
+    "descriptions.hepsiburada": {
+        "message": "Hepsiburada is a popular shopping website in Turkey.",
+        "description": "The presence description of the \"Hepsiburada\" presence."
+    },
+    "descriptions.hulu": {
+        "message": "Watch current hit shows, classic series and acclaimed movies instantly with Hulu.",
+        "description": "The presence description of the \"Hulu\" presence."
+    },
+    "descriptions.google": {
+        "message": "Google is a search engine that can be employed to find a variety of information such as websites, pictures, maps.",
+        "description": "The presence description of the \"Google\" presence."
+    },
+    "descriptions.gfycat": {
+        "message": "Gfycat is the top destination for GIFs and videos. Create your own GIF or browse the best gaming GIFs, reactions GIFs, funny GIFs and more.",
+        "description": "The presence description of the \"Gfycat\" presence."
+    },
+    "descriptions.habbocity": {
+        "message": "HabboCity is a great French Habbo retro. Join us and become famous, meet new people, chat, build, participate in games and much more ...",
+        "description": "The presence description of the \"HabboCity\" presence."
+    },
+    "descriptions.hentaiworld": {
+        "message": "Discover our Hentai Streaming (Italian & English Subbed). Download or stream your favorite series completely for free.",
+        "description": "The presence description of the \"HentaiWorld\" presence."
+    },
+    "descriptions.hepboat": {
+        "message": "HepBoat is a fork of b1nzy's rowboat, a utilitarian and administration assistant for Discord.",
+        "description": "The presence description of the \"HepBoat\" presence."
+    },
+    "descriptions.horizon_go": {
+        "message": "Watch your TV channels and movies through browser.",
+        "description": "The presence description of the \"Horizon GO\" presence."
+    },
+    "descriptions.japari_library": {
+        "message": "Japari Library is a wiki based around the Kemono Friends multimedia franchise.",
+        "description": "The presence description of the \"Japari Library\" presence."
+    },
+    "descriptions.jet_set radio live": {
+        "message": "Yo! You've heard about Jet Set Radio, right? It's only the hottest radio station straight outta Tokyo-to! Tune in. Turn on. Jet Set Radiooo!!!",
+        "description": "The presence description of the \"Jet Set Radio Live\" presence."
+    },
+    "descriptions.joox": {
+        "message": "JOOX - music streaming platform that gives you an access to millions of songs. Download JOOX FREE, free music, free radio, top charts, playlists, new releases",
+        "description": "The presence description of the \"Joox\" presence."
+    },
+    "descriptions.kimcartoon": {
+        "message": "Official Website of KimCartoon. Watch cartoon online free in HD.",
+        "description": "The presence description of the \"KimCartoon\" presence."
+    },
+    "descriptions.iheartradio": {
+        "message": "iHeartRadio is a free broadcast, podcast and streaming radio platform owned by iHeartMedia, Inc. It was founded in April 2008.",
+        "description": "The presence description of the \"iHeartRadio\" presence."
+    },
+    "descriptions.kahoot": {
+        "message": "Kahoot! is a game-based platform that makes learning awesome for millions of people all over the world.",
+        "description": "The presence description of the \"Kahoot\" presence."
+    },
+    "descriptions.instagram": {
+        "message": "A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+        "description": "The presence description of the \"Instagram\" presence."
+    },
+    "descriptions.imdb": {
+        "message": "IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, fan and critical reviews, and ratings.",
+        "description": "The presence description of the \"IMDb\" presence."
+    },
+    "descriptions.juke": {
+        "message": "JUKE is a dutch radio channel collection site. JUKE is a Talpa Network Company.",
+        "description": "The presence description of the \"JUKE\" presence."
+    },
+    "descriptions.ifttt": {
+        "message": "IFTTT, the easiest way to do more with your favorite apps and devices for free. Make your home more relaxing. Make your work more productive. Keep your data private and secure.",
+        "description": "The presence description of the \"IFTTT\" presence."
+    },
+    "descriptions.jummbox": {
+        "message": "Allows users to see music creation info and time used",
+        "description": "The presence description of the \"Jummbox\" presence."
+    },
+    "descriptions.kimi_no na wa wikia": {
+        "message": "Presence for the english wikia of the anime movie Kimi no Na wa./Your Name.",
+        "description": "The presence description of the \"Kimi no Na wa Wikia\" presence."
+    },
+    "descriptions.jackbox": {
+        "message": "It's easy to use this website to turn your phone, tablet or computer into a controller for one of Jackbox Games many party games. All you'll need is a room code",
+        "description": "The presence description of the \"Jackbox\" presence."
+    },
+    "descriptions.iloot.it": {
+        "message": "iLoot.it is an earnings platform desinged for gamers by gamers. Get money by doing tasks to buy yourself a new game.",
+        "description": "The presence description of the \"Iloot.it\" presence."
+    },
+    "descriptions.jellyfin": {
+        "message": "The Free Software Media System",
+        "description": "The presence description of the \"Jellyfin\" presence."
+    },
+    "descriptions.jisho": {
+        "message": "Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily.",
+        "description": "The presence description of the \"Jisho\" presence."
+    },
+    "descriptions.instant-gaming": {
+        "message": "Instant-Gaming.com - All your favourites games for Steam, Origin, Battle.net, Uplay and Indie games up to 70% off! Digital games, Instant delivery 24/7!",
+        "description": "The presence description of the \"Instant-Gaming\" presence."
+    },
+    "descriptions.jiocinema": {
+        "message": "JioCinema is a video streaming service offered by Jio where in you can watch movies, TV shows, Jio exclusives, documentaries and trailers.",
+        "description": "The presence description of the \"JioCinema\" presence."
+    },
+    "descriptions.just_light novels": {
+        "message": "Just Light Novels! Home of All Light Novels",
+        "description": "The presence description of the \"Just Light Novels\" presence."
+    },
+    "descriptions.kabal's": {
+        "message": "Kabal's bot is providing social aspects including member profile, fun stuff and moderation..",
+        "description": "The presence description of the \"Kabal's\" presence."
+    },
+    "descriptions.keep_talking and nobody explodes": {
+        "message": "YOU'RE ALONE IN A ROOM WITH A BOMB. Your friends have the info you need to defuse it. But there's a catch. They can’t see the bomb. So everyone will need to talk it out – fast!",
+        "description": "The presence description of the \"Keep Talking and Nobody Explodes\" presence."
+    },
+    "descriptions.itv_hub": {
+        "message": "Watch live and past ITV TV shows",
+        "description": "The presence description of the \"ITV Hub\" presence."
+    },
+    "descriptions.imgur": {
+        "message": "Imgur is the easiest way to discover and enjoy the magic of the Internet. It’s where you’ll find the funniest, most informative and inspiring images, memes, GIFs, and visual stories served up in an endless stream of bite-sized fun. Powered by a passionate community of people from all around the world.",
+        "description": "The presence description of the \"Imgur\" presence."
+    },
+    "descriptions.issou_tv": {
+        "message": "IssouTv is a community video hosting platform. Humor, unease, music, games, adults ... there is something for everyone.",
+        "description": "The presence description of the \"Issou TV\" presence."
+    },
+    "descriptions.jeuxvideo.com": {
+        "message": "JVC (jeuxvideo.com) is a famous french board and news site about video games.",
+        "description": "The presence description of the \"JeuxVideo.com\" presence."
+    },
+    "descriptions.kahve_bot": {
+        "message": "Kahve bot is the most popular turkish discord bot.",
+        "description": "The presence description of the \"Kahve BOT\" presence."
+    },
+    "descriptions.kissasian": {
+        "message": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). HTML5 available for mobile devices.",
+        "description": "The presence description of the \"KissAsian\" presence."
+    },
+    "descriptions.krunker": {
+        "message": "Krunker.io is a free io Multiplayer First Person Shooter. No Download browser FPS! Free!",
+        "description": "The presence description of the \"Krunker\" presence."
+    },
+    "descriptions.letgo": {
+        "message": "Letgo is an app which allows yo to buy and sell some stuff to people around you",
+        "description": "The presence description of the \"letgo\" presence."
+    },
+    "descriptions.listen.moe": {
+        "message": "LISTEN.moe is a fan-made website that aims to to play Anime/Japanese/Doujin music 24/7",
+        "description": "The presence description of the \"LISTEN.moe\" presence."
+    },
+    "descriptions.mangaworld": {
+        "message": "Check out our MangaWorld site to read your favorite Manga in Italian and completely free.",
+        "description": "The presence description of the \"MangaWorld\" presence."
+    },
+    "descriptions.netflix": {
+        "message": "Netflix is the world's leading internet entertainment service with 139 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages.",
+        "description": "The presence description of the \"Netflix\" presence."
+    },
+    "descriptions.nyaa.si": {
+        "message": "Nyaa.si is a BitTorrent website focused on East Asian media.",
+        "description": "The presence description of the \"Nyaa.si\" presence."
+    },
+    "descriptions.photopea": {
+        "message": "Photopea online image editor is a free Photoshop clone with advanced tools",
+        "description": "The presence description of the \"Photopea\" presence."
+    },
+    "descriptions.ponyvillefm": {
+        "message": "PonyvilleFM is one of the oldest Brony and Pony EDM Radio Station with Live Mixes and Performances from our very talented line-up of DJs.",
+        "description": "The presence description of the \"PonyvilleFM\" presence."
+    },
+    "descriptions.log.com.tr": {
+        "message": "Log.com.tr is a technology blog, just like Webtekno ve ShiftDelete.Net.",
+        "description": "The presence description of the \"Log.com.tr\" presence."
+    },
+    "descriptions.koya": {
+        "message": "A powerful multi-function and configurable Discord bot.",
+        "description": "The presence description of the \"Koya\" presence."
+    },
+    "descriptions.kshow123": {
+        "message": "Watch online Korean shows with English subtitles in high quality.",
+        "description": "The presence description of the \"Kshow123\" presence."
+    },
+    "descriptions.monos_chinos": {
+        "message": "Monos Chinos is a streaming website where you can watch anime with spanish subtitles.",
+        "description": "The presence description of the \"Monos Chinos\" presence."
+    },
+    "descriptions.musescore": {
+        "message": "Musescore allows you to share, find and play sheet music that other people have made.",
+        "description": "The presence description of the \"Musescore\" presence."
+    },
+    "descriptions.pastebin": {
+        "message": "Pastebin.com is the number one paste tool since 2002. Pastebin is a website where you can store text online for a set period of time.",
+        "description": "The presence description of the \"Pastebin\" presence."
+    },
+    "descriptions.piapro": {
+        "message": "Listen to piapro! look! Use! Admit! A CGM-type content posting site that realizes.",
+        "description": "The presence description of the \"piapro\" presence."
+    },
+    "descriptions.pokémon": {
+        "message": "Pokémon are creatures of all shapes and sizes who live in the wild or alongside humans. For the most part, Pokémon do not speak except to utter their names. There are currently more than 700 creatures that inhabit the Pokémon universe.",
+        "description": "The presence description of the \"Pokémon\" presence."
+    },
+    "descriptions.lucidchart": {
+        "message": "Lucidchart is a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation.",
+        "description": "The presence description of the \"LucidChart\" presence."
+    },
+    "descriptions.mangalib": {
+        "message": "Website for reading manga in Russian",
+        "description": "The presence description of the \"Mangalib\" presence."
+    },
+    "descriptions.mangayabu": {
+        "message": "MangaYabu allow to user read various type of mangas with a comfort and without advertising that hinder to read.",
+        "description": "The presence description of the \"MangaYabu\" presence."
+    },
+    "descriptions.nookazon": {
+        "message": "Nookazon is a fan-site where users can buy and sell items and villagers in \"Animal Crossing: New Horizons\".",
+        "description": "The presence description of the \"Nookazon\" presence."
+    },
+    "descriptions.peloton": {
+        "message": "Peloton is attractive, addictive, and seriously whips you into shape.",
+        "description": "The presence description of the \"Peloton\" presence."
+    },
+    "descriptions.plug.dj": {
+        "message": "Listen, play, discover and connect with music fans around the world!",
+        "description": "The presence description of the \"plug.dj\" presence."
+    },
+    "descriptions.kisscartoon": {
+        "message": "Watch cartoon online free in HD. Watch cartoon free without downloading.",
+        "description": "The presence description of the \"KissCartoon\" presence."
+    },
+    "descriptions.mangakakalot": {
+        "message": "Read manga online free at Mangakakalot.com, update fastest, most full, synthesized 24h free with high-quality images and be the first one to publish new chapters.",
+        "description": "The presence description of the \"MangaKakalot\" presence."
+    },
+    "descriptions.kitsu": {
+        "message": "Share anime and manga experiences, get recommendations and see what friends are watching or reading.",
+        "description": "The presence description of the \"Kitsu\" presence."
+    },
+    "descriptions.labydesigns": {
+        "message": "LabyDesigns creates a free Bandana/Cape design according to your wishes for LabyMod!",
+        "description": "The presence description of the \"LabyDesigns\" presence."
+    },
+    "descriptions.maki.gg": {
+        "message": "A multi-purpose bot featuring server management, leveling, economy, administration tools, fun commands, and more with an intuitive dashboard!",
+        "description": "The presence description of the \"Maki.gg\" presence."
+    },
+    "descriptions.mc-market": {
+        "message": "MC-Market.org is the home of Minecraft trades and sales, since August 2014.",
+        "description": "The presence description of the \"MC-Market\" presence."
+    },
+    "descriptions.mee6": {
+        "message": "The Discord Bot - Configure moderation, leveling, Twitch alerts and much more with the most easy-to-use dashboard!",
+        "description": "The presence description of the \"MEE6\" presence."
+    },
+    "descriptions.mixmods": {
+        "message": "MixMods is a brazilian mod website for GTA and other games, founded by Junior_Djjr, is the biggest mod website from Latin America.",
+        "description": "The presence description of the \"MixMods\" presence."
+    },
+    "descriptions.mspfa": {
+        "message": "MSPFA is a website used for hosting webcomics mostly in the style of the comics found on mspaintadventures.com, although not exclusively.",
+        "description": "The presence description of the \"MSPFA\" presence."
+    },
+    "descriptions.nhentai": {
+        "message": "nhentai is a hentai site that hosts pornographic hentai and doujinshi manga with various titles in different translated languages.",
+        "description": "The presence description of the \"nhentai\" presence."
+    },
+    "descriptions.nexus_mods": {
+        "message": "We support modding for all PC games. If you can mod it, we'll host it.",
+        "description": "The presence description of the \"Nexus Mods\" presence."
+    },
+    "descriptions.niconico": {
+        "message": "niconico is the largest entertainment service in Japan. Enjoy niconico Video with video commentary or niconico Live that allows you to comment on live streaming programs in real time, as well as others services with images, illustrations, e-books, manga, latest news, blogs and 3D content for free!",
+        "description": "The presence description of the \"niconico\" presence."
+    },
+    "descriptions.pocket_casts": {
+        "message": "All the features you need in a podcasting app without any of the bloat. Podcast listening turned up to 11.",
+        "description": "The presence description of the \"Pocket Casts\" presence."
+    },
+    "descriptions.prime_video": {
+        "message": "Enjoy exclusive Amazon Originals as well as popular movies and TV shows. Watch anytime, anywhere. Start your free trial.",
+        "description": "The presence description of the \"Prime Video\" presence."
+    },
+    "descriptions.lautfm": {
+        "message": "Laut.FM is a Website to create your own Music station or listening to music.",
+        "description": "The presence description of the \"LautFM\" presence."
+    },
+    "descriptions.myanimelist": {
+        "message": "The world's most active online anime and manga community and database. Join the online community, create your anime and manga list and so much more!",
+        "description": "The presence description of the \"MyAnimeList\" presence."
+    },
+    "descriptions.mybot": {
+        "message": "MyBOT is a plataform with differents guides and tools in spanish, oriented to the development of apps/bots and content for comunities of Discord.",
+        "description": "The presence description of the \"MyBOT\" presence."
+    },
+    "descriptions.nodejs.org": {
+        "message": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+        "description": "The presence description of the \"Nodejs.org\" presence."
+    },
+    "descriptions.minecraft_central": {
+        "message": "Play Minigames, Factions, Skyblock, Prison, Survival and much more on Minecraft Central!",
+        "description": "The presence description of the \"Minecraft Central\" presence."
+    },
+    "descriptions.nakama_mangás": {
+        "message": "One brazilian scanlator with a quality website.",
+        "description": "The presence description of the \"Nakama Mangás\" presence."
+    },
+    "descriptions.osu!online": {
+        "message": "This is an unofficial implementation of osu!. Scoring and judgement rules differ from official versions. Some music might not be perfectly syncing. Modes other than osu! (std) are unsupported.",
+        "description": "The presence description of the \"osu!online\" presence."
+    },
+    "descriptions.p90.zone": {
+        "message": "p90.zone is a website that shows random WebMs (mostly memes) uploaded by their users",
+        "description": "The presence description of the \"p90.zone\" presence."
+    },
+    "descriptions.picarto": {
+        "message": "Picarto is the world’s leading live streaming platform for creative minds. Come join us and watch artists from all over the world during their creative process!",
+        "description": "The presence description of the \"Picarto\" presence."
+    },
+    "descriptions.madnessfm": {
+        "message": "MadnessFM is a 24/7 online radio station, based in the UK. We have been around for almost a year and love bringing you the greatest hits! We also have a golden oldies station as well. This radio station is brought to you by Kane Productions!",
+        "description": "The presence description of the \"MadnessFM\" presence."
+    },
+    "descriptions.kodi": {
+        "message": "Kodi presence for PreMiD! Please read [this page](https://github.com/PreMiD/Presences/blob/master/websites/K/Kodi/readme.md) to get started!",
+        "description": "The presence description of the \"Kodi\" presence."
+    },
+    "descriptions.manga_livre": {
+        "message": "Read online and organize your readings here. Read in Portuguese (PT-BR) the most read manga like Naruto, Fairy Tail, One Piece and more!",
+        "description": "The presence description of the \"Manga Livre\" presence."
+    },
+    "descriptions.mixcloud": {
+        "message": "Listen to the best DJs and radio presenters in the world for free.",
+        "description": "The presence description of the \"Mixcloud\" presence."
+    },
+    "descriptions.outline": {
+        "message": "Outline is a free service for reading and annotating news articles. We remove the clutter so you can analyze and comment on the content.",
+        "description": "The presence description of the \"Outline\" presence."
+    },
+    "descriptions.pinterest": {
+        "message": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+        "description": "The presence description of the \"Pinterest\" presence."
+    },
+    "descriptions.prambors_radio": {
+        "message": "Prambors FM is a commercial radio network based in Jakarta, Indonesia. Launched on March 18, 1971 in Jakarta, the purpose of station was to play pop music with their target audience being teenagers and young adults. Prambors is known as a teen icon in Indonesia throughout the 80's and 90's. It is owned and operated by Masima Radio Network",
+        "description": "The presence description of the \"Prambors Radio\" presence."
+    },
+    "descriptions.lain_game": {
+        "message": "lain game is a website trying to reproduce 1998's PlayStation game 'Serial Experiments Lain' in web form.",
+        "description": "The presence description of the \"lain game\" presence."
+    },
+    "descriptions.leetcode": {
+        "message": "Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.",
+        "description": "The presence description of the \"LeetCode\" presence."
+    },
+    "descriptions.mangasproject": {
+        "message": "MangasPROJECT - Read online and organize your reads in mangasPROJECT. Read in portuguese mangas and webtoons most reads in action, romance, fantasy, isekai and others!",
+        "description": "The presence description of the \"MangasPROJECT\" presence."
+    },
+    "descriptions.mcstacker": {
+        "message": "Minecraft command generator.",
+        "description": "The presence description of the \"MCStacker\" presence."
+    },
+    "descriptions.namemc": {
+        "message": "Check the availability of Minecraft names, look up the name history of Minecraft accounts, view Minecraft skins in 3D, convert UUIDs, and much more! Check out our list of the latest popular Minecraft skins for Java and PE! Download the skin that suits you best!",
+        "description": "The presence description of the \"NameMC\" presence."
+    },
+    "descriptions.labymod": {
+        "message": "An all in one Minecraft PvP Modification to increase your ingame experience.",
+        "description": "The presence description of the \"LabyMod\" presence."
+    },
+    "descriptions.mvs4u": {
+        "message": "a streaming website where you can watch TV and movies with arabic subtitles",
+        "description": "The presence description of the \"mvs4u\" presence."
+    },
+    "descriptions.nitro_type": {
+        "message": "Improve your typing skills while competing in fast-paced races with up to 5 typers from around the world. Compete against your friends, earn new cars, track your scores, and so much more... all for free!",
+        "description": "The presence description of the \"Nitro Type\" presence."
+    },
+    "descriptions.osu!gatari": {
+        "message": "Welcome to the best osu! server osu!gatari.",
+        "description": "The presence description of the \"osu!gatari\" presence."
+    },
+    "descriptions.partydoosmediagroup": {
+        "message": "An upcoming site which will have services such as web hosting in cloud environments.",
+        "description": "The presence description of the \"PartydoosMediaGroup\" presence."
+    },
+    "descriptions.playerbros": {
+        "message": "Playerbros is a Turkish e-sport news website.",
+        "description": "The presence description of the \"Playerbros\" presence."
+    },
+    "descriptions.lookmovie": {
+        "message": "Watch all new and old movies on line in FHD quality and subtitles for free.",
+        "description": "The presence description of the \"LookMovie\" presence."
+    },
+    "descriptions.love_live! wikia": {
+        "message": "Presence for the English Wikia of the Love Live! School Idol Project series",
+        "description": "The presence description of the \"Love Live! Wikia\" presence."
+    },
+    "descriptions.medium": {
+        "message": "Medium is an online publishing platform developed by Evan Williams and launched in August 2012. It is owned by A Medium Corporation.",
+        "description": "The presence description of the \"Medium\" presence."
+    },
+    "descriptions.my_nintendo": {
+        "message": "Thanks to My Nintendo makes playing software and interacting with Nintendo even more fun. You can earn points and get rewards such as discounts and additional content for games.",
+        "description": "The presence description of the \"My Nintendo\" presence."
+    },
+    "descriptions.nekos.life": {
+        "message": "A neko makes your day bright - nekos.life provides you with thousands of SFW and NSFW images of nekos (cat-girls).",
+        "description": "The presence description of the \"nekos.life\" presence."
+    },
+    "descriptions.nightwave_plaza": {
+        "message": "Nightwave Plaza is a free 24/7 online vaporwave radio station. The broadcast also includes some future funk and experimental genres. We hope you enjoy.",
+        "description": "The presence description of the \"Nightwave Plaza\" presence."
+    },
+    "descriptions.non-stop_nyan cat!": {
+        "message": "Basically just an endless Nyan Cat. That's all there is to it.",
+        "description": "The presence description of the \"NON-STOP NYAN CAT!\" presence."
+    },
+    "descriptions.npm_package registry": {
+        "message": "The Node Package Manager is a package manager for the JavaScript runtime environment node.js.",
+        "description": "The presence description of the \"NPM Package Registry\" presence."
+    },
+    "descriptions.osu!kurikku": {
+        "message": "One of the best CIS community osu! server.",
+        "description": "The presence description of the \"osu!Kurikku\" presence."
+    },
+    "descriptions.osu!ppy": {
+        "message": "Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.",
+        "description": "The presence description of the \"osu!ppy\" presence."
+    },
+    "descriptions.pandora": {
+        "message": "Play the songs, albums, playlists and podcasts you love on the all-new Pandora.",
+        "description": "The presence description of the \"Pandora\" presence."
+    },
+    "descriptions.pixiv": {
+        "message": "pixiv is an “illustration communication service” where you can post and view your work. A wide range of genres are posted, and user-initiated projects and manufacturer-authorized contests are held.",
+        "description": "The presence description of the \"pixiv\" presence."
+    },
+    "descriptions.pornhub": {
+        "message": "PornHub is the number one free porn site in the world with hundreds of thousands of free videos, including free HD and downloading capabilities.",
+        "description": "The presence description of the \"PornHub\" presence."
+    },
+    "descriptions.listenonrepeat": {
+        "message": "Discover music, check out the latest trending videos, and 24/7 curated content! Try ListenOnRepeat today.",
+        "description": "The presence description of the \"ListenOnRepeat\" presence."
+    },
+    "descriptions.mycanal": {
+        "message": "Canal+ is a French subscription provider associated to the channel of the same name. It is owned by Vivendi with a hundred percent share.",
+        "description": "The presence description of the \"myCANAL\" presence."
+    },
+    "descriptions.n11.com": {
+        "message": "n11.com is a popular shopping website in Turkey.",
+        "description": "The presence description of the \"n11.com\" presence."
+    },
+    "descriptions.niantic_wayfarer": {
+        "message": "By participating to Niantic Wayfarer you can help shape future adventures for yourself and others by reviewing interesting locations across the globe.",
+        "description": "The presence description of the \"Niantic Wayfarer\" presence."
+    },
+    "descriptions.paybutik": {
+        "message": "Paybutik is a provider of online payment service to customers.",
+        "description": "The presence description of the \"Paybutik\" presence."
+    },
+    "descriptions.premid": {
+        "message": "PreMiD adds Discord Rich Presence support to a lot of services you use and love.",
+        "description": "The presence description of the \"PreMiD\" presence."
+    },
+    "descriptions.primemc": {
+        "message": "Join the competitive community of PrimeMC, ranging from a content filled Skyblock realm and other interesting gamemodes on the side.",
+        "description": "The presence description of the \"PrimeMC\" presence."
+    },
+    "descriptions.kshowonline": {
+        "message": "Watch Korean Variety Shows Online with English Subtitles.",
+        "description": "The presence description of the \"KShowOnline\" presence."
+    },
+    "descriptions.livida_blog": {
+        "message": "The latest news and information from Livida, an online community with a focus of mainly gaming.",
+        "description": "The presence description of the \"Livida Blog\" presence."
+    },
+    "descriptions.neox_scanlator": {
+        "message": "One of the giants fansubs in Brazil where they translate and distribute to the public, also known for translating Solo Leveling and other famous manga.",
+        "description": "The presence description of the \"Neox Scanlator\" presence."
+    },
+    "descriptions.openrec": {
+        "message": "openrec is a japanese streaming platform similar to Twitch and also contains videos",
+        "description": "The presence description of the \"openrec\" presence."
+    },
+    "descriptions.lichess": {
+        "message": "Lichess is an open-source Internet chess server. Anyone can play anonymously, although players may register an account on the site to play rated games.",
+        "description": "The presence description of the \"Lichess\" presence."
+    },
+    "descriptions.mangadex": {
+        "message": "Read manga online for free at MangaDex with no ads, high quality images and support scanlation groups!",
+        "description": "The presence description of the \"MangaDex\" presence."
+    },
+    "descriptions.meus_animes": {
+        "message": "One of the most clean websites for watch animes in Brazil",
+        "description": "The presence description of the \"Meus Animes\" presence."
+    },
+    "descriptions.monstercat": {
+        "message": "Empowering a creative and passionate community through innovation in music.",
+        "description": "The presence description of the \"Monstercat\" presence."
+    },
+    "descriptions.okanime": {
+        "message": "OKanime is an anime streaming website with arabic subs/dubs",
+        "description": "The presence description of the \"OKanime\" presence."
+    },
+    "descriptions.pantip": {
+        "message": "Pantip is the most popular forum in Thailand for participate in discussions on all issues including entertainment, stocks, beauty, travel, cars, sports, mobile phones, food, politics, family, home, science, health, business",
+        "description": "The presence description of the \"Pantip\" presence."
+    },
+    "descriptions.pastr": {
+        "message": "pastr.io is a pasting service that includes multiple features and simple ways to create your own paste.",
+        "description": "The presence description of the \"Pastr\" presence."
+    },
+    "descriptions.legends_of equestria": {
+        "message": "Legends of Equestria is a free-to-play MMORPG, available to play right now in Open Access! The in-development game is full of adventures, magic, and small horses. You will be able to fly, dance, play with pets, and more with friends or by yourself.",
+        "description": "The presence description of the \"Legends of Equestria\" presence."
+    },
+    "descriptions.lawcodev": {
+        "message": "Lawcodev, social network for programmers, you can share videos about programming, photos and publications.",
+        "description": "The presence description of the \"Lawcodev\" presence."
+    },
+    "descriptions.metastream": {
+        "message": "Watch and listen to your favorite content with friends.",
+        "description": "The presence description of the \"Metastream\" presence."
+    },
+    "descriptions.nuxt.js": {
+        "message": "Nuxt is a progressive framework based on Vue.js to create modern web applications. It is based on Vue.js official libraries (vue, vue-router and vuex) and powerful development tools (webpack, Babel and PostCSS). Nuxt's goal is to make web development powerful and performant with a great developer experience in mind.",
+        "description": "The presence description of the \"Nuxt.js\" presence."
+    },
+    "descriptions.osu!kawata": {
+        "message": "Kawata is the first osu! private server that allows cheating.",
+        "description": "The presence description of the \"osu!kawata\" presence."
+    },
+    "descriptions.osu!ripple": {
+        "message": "Ripple is a private osu! server.There are many like it, but this one is ours.",
+        "description": "The presence description of the \"osu!ripple\" presence."
+    },
+    "descriptions.overbuff": {
+        "message": "Overbuff is a website dedicated to helping Overwatch players improve their game. You can track your progress on heroes, see what your friends have been playing, and keep tabs on pro players.",
+        "description": "The presence description of the \"Overbuff\" presence."
+    },
+    "descriptions.plex": {
+        "message": "Plex allows you to manage, curate, and stream your personal media along with premium content. Enjoy your own content on all your devices wherever you are with Plex.",
+        "description": "The presence description of the \"Plex\" presence."
+    },
+    "descriptions.messenger": {
+        "message": "Instantly reach the people in your life—for free. Messenger is just like texting, but you don't have to pay for every message (it works with your data plan).",
+        "description": "The presence description of the \"Messenger\" presence."
+    },
+    "descriptions.minecraftforge": {
+        "message": "Forge allows modders and developers to extend the Minecraft experience.",
+        "description": "The presence description of the \"MinecraftForge\" presence."
+    },
+    "descriptions.plutotv": {
+        "message": "It’s Free TV.",
+        "description": "The presence description of the \"PlutoTV\" presence."
+    },
+    "descriptions.showtime": {
+        "message": "Showtime is an American premium television network that serves as the flagship service of the Showtime Networks subsidiary of CBS Corporation, which also owns sister services The Movie Channel and Flix.",
+        "description": "The presence description of the \"Showtime\" presence."
+    },
+    "descriptions.puhutv": {
+        "message": " puhutv is a Turkish entertainment and video on demand service!",
+        "description": "The presence description of the \"puhutv\" presence."
+    },
+    "descriptions.sitting_on clouds radio": {
+        "message": "Video game music radio from the Sitting on Clouds Soundtrack Collection",
+        "description": "The presence description of the \"Sitting on Clouds Radio\" presence."
+    },
+    "descriptions.thesite": {
+        "message": "TheSite is a service that provides the public with access to motion pictures, television, and other audio-visual entertainment streamed over the internet to certain internet-connected TV's, computers smartphones, tablets, and other devices.",
+        "description": "The presence description of the \"TheSite\" presence."
+    },
+    "descriptions.tuga.tv": {
+        "message": "O site tuga.tv é um agregador de vídeos disponíveis na Internet, que possibilita de forma completamente grátis, segura e anónima ver mais de 20000 vídeos.",
+        "description": "The presence description of the \"tuga.tv\" presence."
+    },
+    "descriptions.türkanimetv": {
+        "message": "TürkAnimeTV is a site where you can watch anime with Turkish subtitles.",
+        "description": "The presence description of the \"TürkAnimeTV\" presence."
+    },
+    "descriptions.viki": {
+        "message": "Watch the best TV shows, movies, music videos, variety selection of Korean dramas, and other premium content in high quality, translated into more than 150 languages by a community of avid fans.",
+        "description": "The presence description of the \"Viki\" presence."
+    },
+    "descriptions.wakanim": {
+        "message": "Wakanim is the best place to stream all your favorite Anime such as Sword Art Online, Attack on Titan, Tokyo Ghoul:re and many others! Much more than a streaming platform! More than just an awesome place to watch Anime, Wakanim is a community, an event organizer and a fervent supporter of Japanese Animation.",
+        "description": "The presence description of the \"Wakanim\" presence."
+    },
+    "descriptions.yagpdb": {
+        "message": "YAGPDB is a multi-purpose Discord Bot.",
+        "description": "The presence description of the \"YAGPDB\" presence."
+    },
+    "descriptions.yay_animes": {
+        "message": "Yay Animes it's a brazilian website that provides free anime to watch or download.",
+        "description": "The presence description of the \"Yay Animes\" presence."
+    },
+    "descriptions.qwant": {
+        "message": "Qwant is a search engine that respects your privacy and eases discovering and sharing via a social approach.",
+        "description": "The presence description of the \"Qwant\" presence."
+    },
+    "descriptions.r10.net": {
+        "message": "R10.net Turkey is one of the popular webmaster forum.",
+        "description": "The presence description of the \"R10.net\" presence."
+    },
+    "descriptions.rl_insider": {
+        "message": "Rocket League Prices PC, PS4 & XBOX, updated hourly.",
+        "description": "The presence description of the \"RL Insider\" presence."
+    },
+    "descriptions.snowboltz": {
+        "message": "SnowBoltz The best shop for buying R$ in Thailand Easy Fast Secure",
+        "description": "The presence description of the \"SnowBoltz\" presence."
+    },
+    "descriptions.speedrun.com": {
+        "message": "Speedrunning leaderboards, resources, forums, and more!",
+        "description": "The presence description of the \"speedrun.com\" presence."
+    },
+    "descriptions.stadia": {
+        "message": "Stadia is a cloud gaming service operated by Google. It is advertised to be capable of streaming video games up to 4K resolution at 60 frames per second with support for high-dynamic-range, to players via the company's numerous data centers across the globe, provided they are using a sufficiently high-speed internet connection. It is accessible through the Google Chrome web browser on desktop computers, Pixel smartphones, supported smartphones from Samsung, OnePlus, Razer and Asus, as well as Chrome OS tablets and Chromecast for TV support.",
+        "description": "The presence description of the \"Stadia\" presence."
+    },
+    "descriptions.streamable": {
+        "message": "Fast and easy video streaming for bloggers and publishers.",
+        "description": "The presence description of the \"Streamable\" presence."
+    },
+    "descriptions.toradorapi": {
+        "message": "Providing you with lots of screenshots and fanarts from the anime Toradora!",
+        "description": "The presence description of the \"ToradorAPI\" presence."
+    },
+    "descriptions.trucksimfm": {
+        "message": "TruckSimFM is an online radio station, dedicated to the Simulation Community, live 24/7 with nothing but great music, Online, On Mobile, and On Your Smart Speaker.",
+        "description": "The presence description of the \"TruckSimFM\" presence."
+    },
+    "descriptions.tunein": {
+        "message": "TuneIn In is an American audio streaming service delivering live news, radio, sports, music, and podcasts to over 60 million monthly active users. As of 2019, TuneIn has more than 75 million monthly active users. TuneIn is operated by company TuneIn Inc which is based in San Francisco, California.",
+        "description": "The presence description of the \"TuneIn\" presence."
+    },
+    "descriptions.vrv": {
+        "message": "VRV is the home of your favorite channels, events, and communities celebrating anime, animation, video games, comics, science fiction, fantasy, and tech.",
+        "description": "The presence description of the \"VRV\" presence."
+    },
+    "descriptions.wired": {
+        "message": "An American science and technology magazine and website.",
+        "description": "The presence description of the \"WIRED\" presence."
+    },
+    "descriptions.punch!_fansub": {
+        "message": "Punch! Fansub is a brazillian fansub and animes streaming website",
+        "description": "The presence description of the \"Punch! Fansub\" presence."
+    },
+    "descriptions.pypi": {
+        "message": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+        "description": "The presence description of the \"PyPi\" presence."
+    },
+    "descriptions.repl.it": {
+        "message": "Repl.it is a San Francisco based start-up and an online IDE (integrated development environment) supporting 40 programming languages, including Python, Lua, JavaScript, Julia, C++, C++11, C, C#, HTML/CSS/JS, Python with turtle and LOLCODE. Repl.it allows users to write code and build apps using a browser, without having to install any software on their devices.",
+        "description": "The presence description of the \"Repl.it\" presence."
+    },
+    "descriptions.rlswaps": {
+        "message": "Swap your Rocket League items against higher value items!",
+        "description": "The presence description of the \"RLSwaps\" presence."
+    },
+    "descriptions.rule34": {
+        "message": "Rule 34 - If it exists, there's porn of it. If not, start uploading!",
+        "description": "The presence description of the \"Rule34\" presence."
+    },
+    "descriptions.shinden": {
+        "message": "Polish site where you can watch anime",
+        "description": "The presence description of the \"Shinden\" presence."
+    },
+    "descriptions.skillshare": {
+        "message": "Skillshare is a learning platform with online classes taught by the world's best practitioners.",
+        "description": "The presence description of the \"Skillshare\" presence."
+    },
+    "descriptions.slack": {
+        "message": "Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.",
+        "description": "The presence description of the \"Slack\" presence."
+    },
+    "descriptions.taiga_bot": {
+        "message": "taiga is a Discord Bot with many features like Virtual Trading Cards, an economy system and in the future even a Plugin Marketplace",
+        "description": "The presence description of the \"taiga Bot\" presence."
+    },
+    "descriptions.teknobuk": {
+        "message": "Teknobuk is a technology blog, just like Webtekno ve ShiftDelete.Net.",
+        "description": "The presence description of the \"Teknobuk\" presence."
+    },
+    "descriptions.trueachievements": {
+        "message": "TrueAchievements is the home of Xbox news, achievement lists and guides, reviews, interviews, leaderboards and more.",
+        "description": "The presence description of the \"TrueAchievements\" presence."
+    },
+    "descriptions.türk_hack team": {
+        "message": "Türk Hack Team Turkey is one of the popular webmaster forum.",
+        "description": "The presence description of the \"Türk Hack Team\" presence."
+    },
+    "descriptions.udemy": {
+        "message": " Udemy is an online learning and teaching marketplace with over 100000 courses and 24 million students.",
+        "description": "The presence description of the \"Udemy\" presence."
+    },
+    "descriptions.usercord.org": {
+        "message": "Fraud prevention, scam prevention and Discord safety brought to you by UserCord.",
+        "description": "The presence description of the \"Usercord.org\" presence."
+    },
+    "descriptions.v3rmillion": {
+        "message": "Vermillion is a Programming and Gaming community forum dedicated to the conversation of a range of topics, within and out of the programming world.",
+        "description": "The presence description of the \"V3rmillion\" presence."
+    },
+    "descriptions.vibe_radio": {
+        "message": "your hit music station, this is vibe",
+        "description": "The presence description of the \"Vibe Radio\" presence."
+    },
+    "descriptions.wanflix": {
+        "message": "Watch L&T videos on Wanflix",
+        "description": "The presence description of the \"Wanflix\" presence."
+    },
+    "descriptions.yarn": {
+        "message": "Yarn is a package manager that doubles down as project manager.",
+        "description": "The presence description of the \"Yarn\" presence."
+    },
+    "descriptions.pulse": {
+        "message": "Pulse is an internet radio community originally started in 2019, after much disrespect and un-professional antics across the radio community; we decided to make our own project that gives people the chance and opportunity to take control of how they want a community.",
+        "description": "The presence description of the \"Pulse\" presence."
+    },
+    "descriptions.rainwave": {
+        "message": "Video game music online radio, including remixes and original soundtracks! Vote for the songs you want to hear!",
+        "description": "The presence description of the \"Rainwave\" presence."
+    },
+    "descriptions.sahibinden.com": {
+        "message": "sahibinden.com is a website that you can buy any kind of used/not used props, cars, electronic stuff and much more.",
+        "description": "The presence description of the \"sahibinden.com\" presence."
+    },
+    "descriptions.scratch": {
+        "message": "Scratch is a block-based visual programming language and online community targeted primarily at children. Users of the site can create online projects using a block-like interface. The service is developed by the MIT Media Lab, has been translated into 70+ languages, and is used in most parts of the world.",
+        "description": "The presence description of the \"Scratch\" presence."
+    },
+    "descriptions.trendyol": {
+        "message": "Trendyol is a popular shopping website in Turkey.",
+        "description": "The presence description of the \"Trendyol\" presence."
+    },
+    "descriptions.tune_radio": {
+        "message": "Tune Radio is a new radio station, aiming to provide all of the latest and greatest hits easily to everyone across the globe.",
+        "description": "The presence description of the \"Tune Radio\" presence."
+    },
+    "descriptions.vidstreaming": {
+        "message": "Vidstreaming is a website where you can find the latest anime released.",
+        "description": "The presence description of the \"Vidstreaming\" presence."
+    },
+    "descriptions.vimeo": {
+        "message": "Vimeo is an ad-free video platform headquartered in New York City, providing free video viewing services as a competitor to YouTube. In 2007, Vimeo became the first video sharing site to support high-definition video.",
+        "description": "The presence description of the \"Vimeo\" presence."
+    },
+    "descriptions.vudu": {
+        "message": "Vudu distributes full-length movies and TV shows to internet-enabled devices in the United States of America.",
+        "description": "The presence description of the \"VUDU\" presence."
+    },
+    "descriptions.radio_garden": {
+        "message": "By bringing distant voices close, radio connects people and places. Radio Garden allows listeners to tune into live radio across entire globe.",
+        "description": "The presence description of the \"Radio Garden\" presence."
+    },
+    "descriptions.rocket_league": {
+        "message": "Rocket League® combines soccer with driving in an unbelievable physics-based multiplayer-focused sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars!",
+        "description": "The presence description of the \"Rocket League\" presence."
+    },
+    "descriptions.rooster_teeth": {
+        "message": "Rooster Teeth is a pioneering media and entertainment company responsible for some of the biggest online series in history, such as the award-winning and longest-running web series, Red vs. Blue",
+        "description": "The presence description of the \"Rooster Teeth\" presence."
+    },
+    "descriptions.spirit_fanfics": {
+        "message": "Spirit Fanfics is a self-publishing book platform, wheter they are in Fanfic or Original Story format.",
+        "description": "The presence description of the \"Spirit Fanfics\" presence."
+    },
+    "descriptions.spongepowered": {
+        "message": "A community-driven open source Minecraft: Java Edition modding platform.",
+        "description": "The presence description of the \"SpongePowered\" presence."
+    },
+    "descriptions.stuff.co.nz": {
+        "message": "News from New Zealand and the world: breaking news, videos, sport, rugby, politics, business, entertainment, lifestyle, travel, and property.",
+        "description": "The presence description of the \"Stuff.co.nz\" presence."
+    },
+    "descriptions.tatsumaki": {
+        "message": "Tatsumaki is providing social aspects including member profiles, levels, fun stuff & simple moderation.",
+        "description": "The presence description of the \"Tatsumaki\" presence."
+    },
+    "descriptions.the_archon": {
+        "message": "TheArchon is the most active Factions server on the planet that contains constant betrayals, wither raids, new defensive tactics being deployed each day, and a place where you can battle alongside some of your favorite YouTubers. Along with a variety of Factions gamemodes, TheArchon is a place where you can play an addictive Prison gamemode and an abundance of mini games.",
+        "description": "The presence description of the \"The Archon\" presence."
+    },
+    "descriptions.trello": {
+        "message": "Trello keeps track of everything, from the big picture to the minute details.",
+        "description": "The presence description of the \"Trello\" presence."
+    },
+    "descriptions.tryhackme": {
+        "message": "TryHackMe takes the pain out of learning and teaching Cybersecurity.",
+        "description": "The presence description of the \"TryHackMe\" presence."
+    },
+    "descriptions.tv_time": {
+        "message": "TV Time is an online service centered exclusively on television series. It enables users to get information and comment on the shows they follow, featuring various segments of information related to them, such as new episodes release dates, and various options based on user reaction.",
+        "description": "The presence description of the \"TV Time\" presence."
+    },
+    "descriptions.tvnow": {
+        "message": "TVNOW offers you exciting films and series. Also many shows and documentaries can be found in the online stream! Watch your favorite show online now!",
+        "description": "The presence description of the \"TVNOW\" presence."
+    },
+    "descriptions.valtox_gaming group": {
+        "message": "Valtox Gaming Group is a Gaming Community creating a new experience.",
+        "description": "The presence description of the \"Valtox Gaming Group\" presence."
+    },
+    "descriptions.vidcloud9": {
+        "message": "VidCloud9 is a great place to find shows you missed or movies you are dying to see.",
+        "description": "The presence description of the \"VidCloud9\" presence."
+    },
+    "descriptions.websdr": {
+        "message": "A tool that allows anyone on the web to listen to shortwave and longwave radio without spending any money on radio equipment.",
+        "description": "The presence description of the \"WebSDR\" presence."
+    },
+    "descriptions.ralex_bot": {
+        "message": "Ralex is a Turkish Discord bot, it is fully adjustable with it's dashboard, add this awesome bot to your server!",
+        "description": "The presence description of the \"Ralex Bot\" presence."
+    },
+    "descriptions.ro_the bot": {
+        "message": "Ro the bot is the most diverse discord bot! Just imagine a function, and it probably has it.",
+        "description": "The presence description of the \"Ro the Bot\" presence."
+    },
+    "descriptions.sdarot.tv": {
+        "message": "Series for direct viewing and downloading with built-in Hebrew translation. Hundreds of Israeli and foreign series, tens of thousands of episodes with built-in Hebrew translation!",
+        "description": "The presence description of the \"Sdarot.TV\" presence."
+    },
+    "descriptions.siriusxm": {
+        "message": "SiriusXM is like nothing you've ever heard before — it's a whole new world of radio. Imagine channels and channels of anything you want to listen to.",
+        "description": "The presence description of the \"SiriusXM\" presence."
+    },
+    "descriptions.steamprices.com": {
+        "message": "SteamPrices.com is a website that enables anyone to compare prices between regions, such as the US, UK, and many more.",
+        "description": "The presence description of the \"SteamPrices.com\" presence."
+    },
+    "descriptions.teamtrees": {
+        "message": "Help us plant 20 million trees around the globe by January 1st, 2020.",
+        "description": "The presence description of the \"TeamTrees\" presence."
+    },
+    "descriptions.threenow": {
+        "message": "Watch the latest TV On Demand episodes of all your favourite shows from Three with ThreeNow. Watch Three livestream, Newshub, Three Movies and Three shows.",
+        "description": "The presence description of the \"ThreeNow\" presence."
+    },
+    "descriptions.tiktok": {
+        "message": "TikTok is an iOS and Android social media video app for creating and sharing short lip-sync, comedy, and talent videos. The app was launched in 2017 by ByteDance, for markets outside of China. ByteDance has previously launched Douyin for the China market in September 2016.",
+        "description": "The presence description of the \"TikTok\" presence."
+    },
+    "descriptions.tricksplit.io": {
+        "message": "Alternative Agar.io website, with different modes.",
+        "description": "The presence description of the \"TrickSplit.io\" presence."
+    },
+    "descriptions.truetrophies": {
+        "message": "TrueTrophies is the home of Playstation news, achievement lists and guides, reviews, interviews, leaderboards and more.",
+        "description": "The presence description of the \"TrueTrophies\" presence."
+    },
+    "descriptions.tumblr": {
+        "message": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people.",
+        "description": "The presence description of the \"Tumblr\" presence."
+    },
+    "descriptions.tvnz_ondemand": {
+        "message": "TVNZ OnDemand. We've rounded up the best of the best for you. Finding your favourite TVNZ shows and discovering new ones has never been easier.",
+        "description": "The presence description of the \"TVNZ OnDemand\" presence."
+    },
+    "descriptions.twitter": {
+        "message": "From breaking news and entertainment to sports and politics, from big events to everyday interests. If it's happening anywhere, it's happening on Twitter.",
+        "description": "The presence description of the \"Twitter\" presence."
+    },
+    "descriptions.union_mangás": {
+        "message": "Union Mangás is a brasilian manga site. Read your favorite mangas in portuguese quickly and with convenience!",
+        "description": "The presence description of the \"Union Mangás\" presence."
+    },
+    "descriptions.vk": {
+        "message": "This presence will be displaying things that you usually do in VK. It displays a music info (if you're on the Music page), a video info (when you watching video) and info if you're watching community or user profile.",
+        "description": "The presence description of the \"VK\" presence."
+    },
+    "descriptions.vlare": {
+        "message": "Vlare is a video-sharing-centric social website, basically meaning 'a video sharing website with social features.'",
+        "description": "The presence description of the \"Vlare\" presence."
+    },
+    "descriptions.vui_ghê": {
+        "message": "Watch free high quality Vietsub anime online with fast transmission, HOT anime are always updated soonest in Vietnam.",
+        "description": "The presence description of the \"Vui Ghê\" presence."
+    },
+    "descriptions.wims": {
+        "message": "This presence is for WIMS' default theme. WIMS is a multipurpose server-project designed for mathematical exercises. Get it now to show people how hard you're working on your assignments.",
+        "description": "The presence description of the \"WIMS\" presence."
+    },
+    "descriptions.wired_sound for wired people": {
+        "message": "make me sad",
+        "description": "The presence description of the \"Wired Sound For Wired People\" presence."
+    },
+    "descriptions.pylon": {
+        "message": "Build and deploy Discord bots in minutes using our simple online studio.",
+        "description": "The presence description of the \"Pylon\" presence."
+    },
+    "descriptions.q-dance": {
+        "message": "Q-Dance is a Dutch company that organizes events and festivals that focuses on the harder styles of dance music-mainly Hardstyle, Hardcore, and Hard Trance. Popular events and festivals organized by Q-Dance are Defqon.1 Festival, Q-BASE, Qlimax, and X-Qlusive.",
+        "description": "The presence description of the \"Q-dance\" presence."
+    },
+    "descriptions.redtube": {
+        "message": "RedTube is a premier adult video sharing platform.",
+        "description": "The presence description of the \"RedTube\" presence."
+    },
+    "descriptions.resetera": {
+        "message": "ResetEra is the internet's premier video gaming forum destination. A savory assortment of enthusiasts, journalists, & developers.",
+        "description": "The presence description of the \"ResetEra\" presence."
+    },
+    "descriptions.skyra": {
+        "message": "A fully customizable server moderation Discord bot for your Discord server that features a simple and intuitive web dashboard. Server management just got a whole lot easier.",
+        "description": "The presence description of the \"Skyra\" presence."
+    },
+    "descriptions.sunshine_live": {
+        "message": "German radio station with many channels like Charts, Summer, 90s, House and much more",
+        "description": "The presence description of the \"Sunshine Live\" presence."
+    },
+    "descriptions.tugastrikes": {
+        "message": "TugaStrikes is a Gaming Community Founded in 2017 focusing on CS:GO",
+        "description": "The presence description of the \"TugaStrikes\" presence."
+    },
+    "descriptions.twist.moe": {
+        "message": "twist.moe is a free anime streaming site.",
+        "description": "The presence description of the \"twist.moe\" presence."
+    },
+    "descriptions.uncyclopedia": {
+        "message": "Uncyclopedia is a satirical website that parodies Wikipedia. Founded in 2005, the project currently has versions in more than 75 languages.",
+        "description": "The presence description of the \"Uncyclopedia\" presence."
+    },
+    "descriptions.upbeatradio": {
+        "message": "UpBeat is an ad-free, community powered online radio.",
+        "description": "The presence description of the \"UpBeatRadio\" presence."
+    },
+    "descriptions.v2ex": {
+        "message": "A Community of Creative Workers. Discuss exciting topics such as programming, design, hardware, games, and more.",
+        "description": "The presence description of the \"V2EX\" presence."
+    },
+    "descriptions.watchill": {
+        "message": "Watchill is one of the biggest Turkish foreign TV show providers on internet.",
+        "description": "The presence description of the \"Watchill\" presence."
+    },
+    "descriptions.yahoo_mail": {
+        "message": "Yahoo! Mail is an email service launched in 1997 through the American parent company Yahoo!. Yahoo Mail provides four different email plans: three for personal use and another for businesses. By December 2011, Yahoo! Mail had 281 million users, making it the third largest web-based email service in the world.",
+        "description": "The presence description of the \"Yahoo Mail\" presence."
+    },
+    "descriptions.s.to": {
+        "message": "Stream more than 3500 Episodes by your favorite series for free!",
+        "description": "The presence description of the \"s.to\" presence."
+    },
+    "descriptions.scp_wiki": {
+        "message": "Operating clandestine and worldwide, the Foundation operates beyond jurisdiction, empowered and entrusted by every major national government with the task of containing anomalous objects, entities, and phenomena.",
+        "description": "The presence description of the \"SCP Wiki\" presence."
+    },
+    "descriptions.simulator_radio": {
+        "message": "Simulator Radio | Your #1 Simulation Station",
+        "description": "The presence description of the \"Simulator Radio\" presence."
+    },
+    "descriptions.stack_overflow": {
+        "message": "Stack Overflow is an open community for anyone that codes. It helps you to get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.",
+        "description": "The presence description of the \"Stack Overflow\" presence."
+    },
+    "descriptions.time.is": {
+        "message": "Exact time, any time zone. 7 million locations, 46 languages, synchronized with atomic clock time.",
+        "description": "The presence description of the \"Time.is\" presence."
+    },
+    "descriptions.toradora_wikia": {
+        "message": "Presence for the english & german wikias of the anime Toradora!",
+        "description": "The presence description of the \"Toradora Wikia\" presence."
+    },
+    "descriptions.truckersfm": {
+        "message": "Truckers.FM is the No.1 Hit Music Station as voted by the TruckersMP Community 5 years, providing round the clock entertainment broadcasting a variety of shows, ranging from the Top 40 to the biggest throwbacks.",
+        "description": "The presence description of the \"TruckersFM\" presence."
+    },
+    "descriptions.truesteamachievements": {
+        "message": "TrueSteamAchievements is the home of Steam news, achievement lists and guides, reviews, interviews, leaderboards and more.",
+        "description": "The presence description of the \"TrueSteamAchievements\" presence."
+    },
+    "descriptions.virgin_media": {
+        "message": "Fibre broadband, digital TV, landline phone and mobile services from Virgin Media. Order online for the best broadband, cable TV, phone and mobile deals.",
+        "description": "The presence description of the \"Virgin Media\" presence."
+    },
+    "descriptions.wolfy": {
+        "message": "An online Werewolf card-based multiplayer game. Stay awake.",
+        "description": "The presence description of the \"Wolfy\" presence."
+    },
+    "descriptions.rocket_league garage": {
+        "message": "Worlds first fansite for Rocket League",
+        "description": "The presence description of the \"Rocket League Garage\" presence."
+    },
+    "descriptions.statusbot": {
+        "message": "Website presence integration for StatusBot",
+        "description": "The presence description of the \"StatusBot\" presence."
+    },
+    "descriptions.tcrf": {
+        "message": "The Cutting Room Floor is a site dedicated to unearthing and researching unused and cut content from video games.",
+        "description": "The presence description of the \"TCRF\" presence."
+    },
+    "descriptions.the_useless web": {
+        "message": "The useless web is a website made for people who are bored and want something to pass the time! The useless web consists of one button, which when clicked, takes you to a random website, which is - completely useless!",
+        "description": "The presence description of the \"The useless web\" presence."
+    },
+    "descriptions.vizer": {
+        "message": "Vizer is a brazilian website to watch movies/series online for free! Vizer indexes content found on the web automatically using Robots and Artificial Intelligence.",
+        "description": "The presence description of the \"Vizer\" presence."
+    },
+    "descriptions.vlc": {
+        "message": "VLC presence for PreMiD! Please read [this page](https://github.com/PreMiD/Presences/blob/master/websites/V/VLC/readme.md) to get started!",
+        "description": "The presence description of the \"VLC\" presence."
+    },
+    "descriptions.wattpad": {
+        "message": "Wattpad is an Internet community for readers and writers to publish new user-generated stories in different genres, including classics, general fiction, historical fiction, non-fiction, poetry, fan-fiction, spiritual, humor, and teen fiction.",
+        "description": "The presence description of the \"Wattpad\" presence."
+    },
+    "descriptions.qdssclub": {
+        "message": "QDSSClub is a mix between a Blog and a Forum managed by YouTubers: Quei Due Sul Server.",
+        "description": "The presence description of the \"QDSSClub\" presence."
+    },
+    "descriptions.rootme": {
+        "message": "Root Me is a platform for everyone to test and improve knowledge in computer security and hacking.",
+        "description": "The presence description of the \"RootMe\" presence."
+    },
+    "descriptions.runopw": {
+        "message": "Make Friends & Chat With Millions In A Virtual World",
+        "description": "The presence description of the \"RunoPW\" presence."
+    },
+    "descriptions.senpa.io": {
+        "message": "The Best Dual Agario Unblocked io Private Server.",
+        "description": "The presence description of the \"Senpa.io\" presence."
+    },
+    "descriptions.topflix": {
+        "message": "TopFlix - Watch Free HD Movies Online",
+        "description": "The presence description of the \"TopFlix\" presence."
+    },
+    "descriptions.vvvvid": {
+        "message": "VVVVID is your personalized online TV completely free.",
+        "description": "The presence description of the \"VVVVID\" presence."
+    },
+    "descriptions.roblox": {
+        "message": "Roblox’s mission is to bring the world together through play.",
+        "description": "The presence description of the \"Roblox\" presence."
+    },
+    "descriptions.probot": {
+        "message": "Welcome images, moderation, global levels, logs, high quality music and many many more!",
+        "description": "The presence description of the \"ProBot\" presence."
+    },
+    "descriptions.rythm": {
+        "message": "Rythm is a Discord music bot focused on one goal: to deliver the best music experience on Discord. It offers more features than any other Discord bot dedicated to its purpose - delivering high quality music from multiple sources.",
+        "description": "The presence description of the \"Rythm\" presence."
+    },
+    "descriptions.skype": {
+        "message": "Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and Skype for Business for effective collaboration.",
+        "description": "The presence description of the \"Skype\" presence."
+    },
+    "descriptions.slither.io": {
+        "message": "Slither.io is a massively multiplayer video game available for iOS, Android, and web browsers, developed by Steve Howse. Players control an avatar resembling a worm, which consumes multicolored pellets, both from other players and ones that naturally spawn on the map in the game, to grow in size.",
+        "description": "The presence description of the \"Slither.io\" presence."
+    },
+    "descriptions.splix.io": {
+        "message": "Conquer as much land as possible and try to become biggest of them all.",
+        "description": "The presence description of the \"splix.io\" presence."
+    },
+    "descriptions.spotify_podcasts": {
+        "message": "Music for everyone. Note: Only podcasts and site info! To show normal songs use the Spotify x Discord connection.",
+        "description": "The presence description of the \"Spotify Podcasts\" presence."
+    },
+    "descriptions.whatsapp": {
+        "message": "Quickly send and receive WhatsApp messages right from your computer.",
+        "description": "The presence description of the \"WhatsApp\" presence."
+    },
+    "descriptions.rádio_animu": {
+        "message": "The most moe radio in Brazil",
+        "description": "The presence description of the \"Rádio Animu\" presence."
+    },
+    "descriptions.radiome": {
+        "message": "Listening to the radio made easy. Radio stations from all regions of Germany, France and Austria.",
+        "description": "The presence description of the \"RadioMe\" presence."
+    },
+    "descriptions.rizo-host": {
+        "message": "Affordable game servers, VPS and web hosting.",
+        "description": "The presence description of the \"Rizo-Host\" presence."
+    },
+    "descriptions.rltracker.pro": {
+        "message": "Compare with Rocket League Players from all over the world and track your statistics live.",
+        "description": "The presence description of the \"RLTracker.pro\" presence."
+    },
+    "descriptions.sololearn": {
+        "message": "SoloLearn has the largest collection of FREE code learning content, from beginner to pro! Choose from thousands of programming topics to learn coding concepts, brush up your programming knowledge, or stay aligned with the latest coding trends.",
+        "description": "The presence description of the \"SoloLearn\" presence."
+    },
+    "descriptions.tka_e-sports": {
+        "message": "Austrian E-Sports Organization",
+        "description": "The presence description of the \"TKA E-Sports\" presence."
+    },
+    "descriptions.twitch": {
+        "message": "Twitch is the world's leading live streaming platform for gamers and the things we love. Watch and chat now with millions of other fans from around the world.",
+        "description": "The presence description of the \"Twitch\" presence."
+    },
+    "descriptions.uptime_robot": {
+        "message": "Uptime Robot is all about helping you to keep your websites up.",
+        "description": "The presence description of the \"Uptime Robot\" presence."
+    },
+    "descriptions.v_live": {
+        "message": "V LIVE is a global entertainment platform that connects Korean stars and their fans.",
+        "description": "The presence description of the \"V LIVE\" presence."
+    },
+    "descriptions.viaplay": {
+        "message": "Stream TV, comics, movies and sports online!",
+        "description": "The presence description of the \"Viaplay\" presence."
+    },
+    "descriptions.webtoon": {
+        "message": "Get in on the latest original romance, comedy, action, fantasy, horror, and more from big names and big names to be - made just for WEBTOON.",
+        "description": "The presence description of the \"Webtoon\" presence."
+    },
+    "descriptions.wikihow": {
+        "message": "wikiHow - How to do anything!",
+        "description": "The presence description of the \"wikiHow\" presence."
+    },
+    "descriptions.yabancıdizi": {
+        "message": "yabancıdizi is one of the biggest Turkish foreign TV show providers on internet.",
+        "description": "The presence description of the \"yabancıdizi\" presence."
+    },
+    "descriptions.yu-gi-oh_top decks": {
+        "message": "Yu-Gi-Oh top decks is a database of best decklists.",
+        "description": "The presence description of the \"Yu-Gi-Oh Top Decks\" presence."
+    },
+    "descriptions.simonektv": {
+        "message": "Simonektv is a website where you can admire the beauty of Orbazzo.",
+        "description": "The presence description of the \"Simonektv\" presence."
+    },
+    "descriptions.rockradio.com": {
+        "message": "100% Rock Internet Radio, streaming the most diverse variety of rock music online.",
+        "description": "The presence description of the \"ROCKRADIO.COM\" presence."
+    },
+    "descriptions.soundcloud": {
+        "message": "SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world, or upload your own.",
+        "description": "The presence description of the \"SoundCloud\" presence."
+    },
+    "descriptions.spigot": {
+        "message": "Spigot a high performance, no lag customized CraftBukkit Minecraft server API, and BungeeCord, the cloud server proxy. (SpigotSearchEngine is supported!)",
+        "description": "The presence description of the \"Spigot\" presence."
+    },
+    "descriptions.stopots": {
+        "message": "StopotS, the stop game on the internet. Play this popular game for free and without downloads.",
+        "description": "The presence description of the \"StopotS\" presence."
+    },
+    "descriptions.telegram": {
+        "message": "Telegram is a secure instant messaging service with multi-platform support.",
+        "description": "The presence description of the \"Telegram\" presence."
+    },
+    "descriptions.typeracer": {
+        "message": "The award-winning online typing competition, TypeRacer, allows people to race each-other by typing quotes from books, movies, and songs. It is the first multiplayer typing game on the web.",
+        "description": "The presence description of the \"Typeracer\" presence."
+    },
+    "descriptions.webtekno": {
+        "message": "Webtekno is one of the biggest technology blogs in Turkey.",
+        "description": "The presence description of the \"Webtekno\" presence."
+    },
+    "descriptions.xvideos": {
+        "message": "XVideos is a free hosting service for porn videos.",
+        "description": "The presence description of the \"XVideos\" presence."
+    },
+    "descriptions.yummyanime": {
+        "message": "Watch anime online (Russion Subbed) in high quality and direct download for FREE! New anime manga daily added.",
+        "description": "The presence description of the \"YummyAnime\" presence."
+    },
+    "descriptions.zalando": {
+        "message": "Zalando | Buy shoes online: Shoes from top brands.",
+        "description": "The presence description of the \"Zalando\" presence."
+    },
+    "descriptions.skribbl.io": {
+        "message": "Skribbl.io a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and be the winner!",
+        "description": "The presence description of the \"Skribbl.io\" presence."
+    },
+    "descriptions.starz": {
+        "message": "Starz is an American premium cable and satellite television network which serves as the flagship service of Starz Inc., which is ultimately owned by Lionsgate. Starz's programming features theatrically released motion pictures and first-run original television series.",
+        "description": "The presence description of the \"Starz\" presence."
+    },
+    "descriptions.steam": {
+        "message": "Steam is the ultimate destination for playing, discussing, and creating games.",
+        "description": "The presence description of the \"Steam\" presence."
+    },
+    "descriptions.sua_música": {
+        "message": "Download the best launching platform for independent artists in Brazil for free. Concerts, Promotional CDs, Music, Video Clips, Instagram and news from Forró, Sertanejo, Axé and others. Create a free Profile for your Band right now.",
+        "description": "The presence description of the \"Sua Música\" presence."
+    },
+    "descriptions.svt_play": {
+        "message": "Watch your favorite shows whenever you want in SVT Play - free television online.",
+        "description": "The presence description of the \"SVT Play\" presence."
+    },
+    "descriptions.tidal": {
+        "message": "Tidal is a music stream service with very high sound quality",
+        "description": "The presence description of the \"Tidal\" presence."
+    },
+    "descriptions.truckersmp": {
+        "message": "TruckersMP a Multiplayer Truckers experience for SCS Software's Euro Truck Simulator 2 and American Truck Simulator.",
+        "description": "The presence description of the \"TruckersMP\" presence."
+    },
+    "descriptions.tubi": {
+        "message": "Tubi is an American streaming service based in San Francisco, California, United States, that launched in 2014. It is a free, ad-supported service, with advertisements shown during commercial breaks in between programming. It is the largest independently-owned video service in the United States.",
+        "description": "The presence description of the \"Tubi\" presence."
+    },
+    "descriptions.virustotal": {
+        "message": "Check every Software for your safety",
+        "description": "The presence description of the \"VirusTotal\" presence."
+    },
+    "descriptions.youtube": {
+        "message": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "description": "The presence description of the \"YouTube\" presence."
+    },
+    "descriptions.quizlet": {
+        "message": "Quizlet makes simple learning tools that let you study anything. Start learning today with flashcards, games and learning tools — all for free.",
+        "description": "The presence description of the \"Quizlet\" presence."
+    },
+    "descriptions.reddit": {
+        "message": "Reddit gives you the best of the internet in one place. Get a constantly updating feed of breaking news, fun stories, pics, memes, and videos just for you.",
+        "description": "The presence description of the \"Reddit\" presence."
+    },
+    "descriptions.simliveradio": {
+        "message": "SimLiveRadio is the most successful infotainment radio for simulation games in Germany, Austria and Switzerland!",
+        "description": "The presence description of the \"SimLiveRadio\" presence."
+    },
+    "descriptions.sparklin_labs": {
+        "message": "A few games created by the people at Sparkling Labs",
+        "description": "The presence description of the \"Sparklin Labs\" presence."
+    },
+    "descriptions.sparknotes": {
+        "message": "Your source for help with Shakespeare and English literature, plus history, math, biology, and more.",
+        "description": "The presence description of the \"Sparknotes\" presence."
+    },
+    "descriptions.streamlabs": {
+        "message": "Streamlabs makes the best streaming software tools.",
+        "description": "The presence description of the \"Streamlabs\" presence."
+    },
+    "descriptions.top.gg": {
+        "message": "Rich Presence for top.gg - The biggest Discord Bot List and more",
+        "description": "The presence description of the \"top.gg\" presence."
+    },
+    "descriptions.touhou_wiki": {
+        "message": "Touhou Wiki covers the official Touhou Project games and materials and any fan-made games and media, along with other related games developed by the former members of Amusement Makers or in conjunction with Team Shanghai Alice.",
+        "description": "The presence description of the \"Touhou Wiki\" presence."
+    },
+    "descriptions.tsuki_mangás": {
+        "message": "Tsuki Mangás is an brazilian manga reader; read your favorite mangas in your smartphone, tablet, computer or any other device. Save your favorite characters and follow the latest releases.",
+        "description": "The presence description of the \"Tsuki Mangás\" presence."
+    },
+    "descriptions.voiranime": {
+        "message": "Voiranime is a streaming website where you can watch VF and VOSTFR anime.",
+        "description": "The presence description of the \"Voiranime\" presence."
+    },
+    "descriptions.wish": {
+        "message": "Buy many products with 80% discount.",
+        "description": "The presence description of the \"Wish\" presence."
+    },
+    "descriptions.woxebot": {
+        "message": "WoxeBot is a Discord bot that you can add to your server to manage it easily with confidence!",
+        "description": "The presence description of the \"WoxeBot\" presence."
+    },
+    "descriptions.radio_nintendo": {
+        "message": "Radio Nintendo is a online radio that streams Nintendo related music and shows.",
+        "description": "The presence description of the \"Radio Nintendo\" presence."
+    },
+    "descriptions.radio.net": {
+        "message": "Radio.net brings together more than 30,000 radio stations and podcasts. It has 4 million monthly users worldwide and has been downloaded more than 20 million times.",
+        "description": "The presence description of the \"Radio.net\" presence."
+    },
+    "descriptions.realbooru": {
+        "message": "NSFW Porn Image board running on Gelbooru",
+        "description": "The presence description of the \"RealBooru\" presence."
+    },
+    "descriptions.rl.deals": {
+        "message": "Trade your Rocket League keys, wheels, decals and other items automatically.",
+        "description": "The presence description of the \"RL.Deals\" presence."
+    },
+    "descriptions.shiftdelete.net": {
+        "message": "ShiftDelete.Net is one of the biggest technology blogs in Turkey.",
+        "description": "The presence description of the \"ShiftDelete.Net\" presence."
+    },
+    "descriptions.simply_hentai": {
+        "message": "Simply Hentai is a free hosting service for hentai mangas.",
+        "description": "The presence description of the \"Simply Hentai\" presence."
+    },
+    "descriptions.surviv.io": {
+        "message": "Like games such as Player Unknown's Battlegrounds (PUBG), Fortnite or Apex Legends? Play this free 2d battle royale io game in your browser!",
+        "description": "The presence description of the \"surviv.io\" presence."
+    },
+    "descriptions.terminal_00": {
+        "message": "Revived by the first Arcent, Angus Nicneven. Sol onset.",
+        "description": "The presence description of the \"Terminal 00\" presence."
+    },
+    "descriptions.tumangaonline": {
+        "message": "Read manga online.",
+        "description": "The presence description of the \"TuMangaOnline\" presence."
+    },
+    "descriptions.w3schools": {
+        "message": "W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.",
+        "description": "The presence description of the \"W3Schools\" presence."
+    },
+    "descriptions.wikipedia": {
+        "message": "Wikipedia is a multilingual online encyclopedia, based on open collaboration through a wiki-based content editing system.",
+        "description": "The presence description of the \"Wikipedia\" presence."
+    },
+    "descriptions.youtube_music": {
+        "message": "A new music service with official albums, singles, videos, remixes, live performances and more for Android, iOS and desktop. It's all here.",
+        "description": "The presence description of the \"YouTube Music\" presence."
+    },
+    "descriptions.twitlonger": {
+        "message": "When you talk too much for Twitter.",
+        "description": "The presence description of the \"TwitLonger\" presence."
+    },
+    "descriptions.loritta": {
+        "message": "Loritta is a Discord bot for utility, fun, entertainment, moderation and more!",
+        "description": "The presence description of the \"Loritta\" presence."
+    },
+    "descriptions.hbo_max": {
+        "message": "The streaming platform that bundles all of HBO together with even more movies and TV series, plus new Max Originals.",
+        "description": "The presence description of the \"HBO Max\" presence."
+    },
+    "descriptions.online_soccer manager": {
+        "message": "Manage your favorite football team in Online Soccer Manager (OSM)! This free-to-play game contains all real and authentic football leagues, clubs and players in the world.",
+        "description": "The presence description of the \"Online Soccer Manager\" presence."
+    },
+    "descriptions.otaku-streamers": {
+        "message": "Otaku-Streamers is a site where you can find the latest anime, discussions and hang with some cool people.",
+        "description": "The presence description of the \"Otaku-Streamers\" presence."
+    },
+    "descriptions.spiderum": {
+        "message": "Vietnamese writing community",
+        "description": "The presence description of the \"Spiderum\" presence."
+    },
+    "descriptions.20xx.info": {
+        "message": "20xx.info is a website that tracks stats in 20XX.io",
+        "description": "The presence description of the \"20XX.info\" presence."
+    },
+    "descriptions.taco": {
+        "message": "Manage Trello boards and get notified of board updates straight from Discord!",
+        "description": "The presence description of the \"Taco\" presence."
+    },
+    "descriptions.trackmania_exchange": {
+        "message": "TrackMania Exchange (TMX) is the biggest and best TrackMania track-swapping website in the world. This one is not for the newer, TrackmaniaExchange, which is for the 2020 Trackmania. Use the ManiaExchange presence for that.",
+        "description": "The presence description of the \"TrackMania Exchange\" presence."
+    },
+    "descriptions.pokémon_showdown": {
+        "message": "Pokémon Showdown is a Pokémon battle simulator. Play Pokémon battles online! Play with randomly generated teams, or build your own! Fully animated!",
+        "description": "The presence description of the \"Pokémon Showdown\" presence."
+    },
+    "descriptions.super_animes": {
+        "message": "One of the best websites for watch animes in the Brazil.",
+        "description": "The presence description of the \"Super Animes\" presence."
+    },
+    "descriptions.deno": {
+        "message": "Deno is a runtime for JavaScript and TypeScript that is based on the V8 JavaScript engine and the Rust programming language. It was created by Ryan Dahl, original creator of Node.js, and is focused on productivity.",
+        "description": "The presence description of the \"Deno\" presence."
+    },
+    "descriptions.animex": {
+        "message": "AnimeX is a free anime streaming site without ads.",
+        "description": "The presence description of the \"AnimeX\" presence."
+    },
+    "descriptions.discord_extreme list": {
+        "message": "Discord's unbiased list, giving bots and servers of all sizes a big chance!",
+        "description": "The presence description of the \"Discord Extreme List\" presence."
+    },
+    "descriptions.aminoapps": {
+        "message": "Amino's network of communities lets you explore, discover, and obsess over the things you're into.",
+        "description": "The presence description of the \"AminoApps\" presence."
+    },
+    "descriptions.super_mangás": {
+        "message": "Read manga in Super Mangas easily on any platform, whether mobile or not.",
+        "description": "The presence description of the \"Super Mangás\" presence."
+    },
+    "descriptions.kael": {
+        "message": "Kael, a multifunctional Brazilian bot designed for managing Discord servers.",
+        "description": "The presence description of the \"Kael\" presence."
+    },
+    "descriptions.keyfm": {
+        "message": "KeyFM.net is a non-profit radio community providing music around the globe, all day - every day.",
+        "description": "The presence description of the \"KeyFM\" presence."
+    },
+    "descriptions.formuliser": {
+        "message": "Get information on chemical formulae.",
+        "description": "The presence description of the \"Formuliser\" presence."
+    },
+    "descriptions.ggradio": {
+        "message": "Welcome to GGRadio, the #1 international eSports gaming radio. Playing 24/7 since 2015, available on all your favourite games and devices.",
+        "description": "The presence description of the \"GGRadio\" presence."
+    },
+    "descriptions.freecodecamp": {
+        "message": "Learn to code. Build projects. Earn certifications. Since 2015, 40,000 graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
+        "description": "The presence description of the \"FreeCodeCamp\" presence."
+    },
+    "descriptions.fairyanime": {
+        "message": "FairyAnime stream your favorite anime completely for free with thai-sub and thai sound!",
+        "description": "The presence description of the \"FairyAnime\" presence."
+    },
+    "descriptions.animetw": {
+        "message": "AnimeTW is a streaming website where you can watch anime with Spanish subtitles.",
+        "description": "The presence description of the \"AnimeTW\" presence."
+    },
+    "descriptions.glenn_bot list": {
+        "message": "Looking for that perfect Discord Bot? Well now you can find it, with Glenn Bot List. GBL is a new Discord Bot List website, find your discord community's new bot",
+        "description": "The presence description of the \"Glenn Bot List\" presence."
+    },
+    "descriptions.skindb.co": {
+        "message": "skindb.co is a database for fortnite, valorant and fall gyus skins/items.",
+        "description": "The presence description of the \"skindb.co\" presence."
+    },
+    "descriptions.wikiwand": {
+        "message": "Wikiwand is a modern reader for web and mobile, that optimizes Wikipedia's amazing content for a significantly improved reading experience.",
+        "description": "The presence description of the \"Wikiwand\" presence."
+    },
+    "descriptions.maniaexchange": {
+        "message": "The content network for Trackmania and Shootmania - driven by the community. This one supports the newer, TrackmaniaExchange, which is for the 2020 Trackmania. For the older one, uses the TrackMania Exchange presence.",
+        "description": "The presence description of the \"ManiaExchange\" presence."
+    },
+    "descriptions.erisly": {
+        "message": "Hiya! My name is Erisly, your friendly neighbourhood goddess! I use my powers and talents to play as a \"Discord Bot\", where I provide you some quality features and commands for your Discord Server!",
+        "description": "The presence description of the \"Erisly\" presence."
+    },
+    "descriptions.clarity_clan": {
+        "message": "Clarity Clan is a Minecraft Clan, growing in the community of MCC.",
+        "description": "The presence description of the \"Clarity Clan\" presence."
+    },
+    "descriptions.hentaifox": {
+        "message": "HentaiFox is one of the most popular free hentai sites around for English translated hentai manga and doujinshi.",
+        "description": "The presence description of the \"HentaiFox\" presence."
+    },
+    "descriptions.simulatorhits": {
+        "message": "Your Number 1 Hit Simulation Radio",
+        "description": "The presence description of the \"SimulatorHits\" presence."
+    },
+    "descriptions.motorsport.com": {
+        "message": "Motorsport.com is a website specializing in motor racing news. Sports like Formula 1, NASCAR, IndyCar, MotoGP, and WEC.",
+        "description": "The presence description of the \"motorsport.com\" presence."
+    },
+    "descriptions.userbenchmark": {
+        "message": "Top Market Research & Genuine Product Insight from our Users. Quickly find category leading products with UserBenchmark.",
+        "description": "The presence description of the \"UserBenchmark\" presence."
+    },
+    "descriptions.take_b1nzy to space": {
+        "message": "Travel through space while listening to amazing music on a website developed by former Discord staff and Senior Ratelimiter B1nzy!",
+        "description": "The presence description of the \"Take B1nzy To Space\" presence."
+    },
+    "descriptions.shazam": {
+        "message": "Identify the media playing around you, explore the music you love. Discover song lyrics from your favourite artists on Shazam.",
+        "description": "The presence description of the \"Shazam\" presence."
+    },
+    "descriptions.google_domains": {
+        "message": "Google Domains is an internet domain name registration service offered by Google. Google Domains offers domain registration, DNS hosting, DNSSEC, Dynamic DNS, domain forwarding, and email forwarding.",
+        "description": "The presence description of the \"Google Domains\" presence."
+    },
+    "descriptions.mydramalist": {
+        "message": "MyDramaList is the only tool you'll need to help you keep track of all the Asian Dramas [TV Shows], Asian Films, and Asian Variety Shows that you love!",
+        "description": "The presence description of the \"MyDramaList\" presence."
+    },
+    "descriptions.hentailib": {
+        "message": "Website for reading hentai manga in Russian",
+        "description": "The presence description of the \"Hentailib\" presence."
+    },
+    "descriptions.ranobelib": {
+        "message": "Website for reading ranobe in Russian",
+        "description": "The presence description of the \"Ranobelib\" presence."
+    },
+    "descriptions.codecademy": {
+        "message": "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.",
+        "description": "The presence description of the \"Codecademy\" presence."
+    },
+    "descriptions.yandex_music": {
+        "message": "Yandex streaming service that allows you to listen to music tracks, albums, and collections of music tracks and get personal recommendations.",
+        "description": "The presence description of the \"Yandex Music\" presence."
+    },
+    "descriptions.wikibooks": {
+        "message": "Wikibooks aims to build a collection of free e-book resources including textbooks, annotated texts, instructional guides, and manuals.",
+        "description": "The presence description of the \"Wikibooks\" presence."
+    },
+    "descriptions.wikidata": {
+        "message": "Wikidata acts as central storage of structured data for Wikimedia projects. Structuring data into a machine-readable format makes it easier to view, search, edit, curate, use and re-use files.",
+        "description": "The presence description of the \"Wikidata\" presence."
+    },
+    "descriptions.wikimedia_commons": {
+        "message": "Wikimedia Commons is the world’s largest free-to-use library of illustrations, photos, drawings, videos, and music.",
+        "description": "The presence description of the \"Wikimedia Commons\" presence."
+    },
+    "descriptions.wikinews": {
+        "message": "Wikinews provides a free content alternative to commercial news sites with articles that are fact-checked and peer reviewed.",
+        "description": "The presence description of the \"Wikinews\" presence."
+    },
+    "descriptions.wikiquote": {
+        "message": "Wikiquote is a online collection of sourced quotations from notable people and creative works in over 75 languages. It also includes proverbs, mnemonics and slogans.",
+        "description": "The presence description of the \"Wikiquote\" presence."
+    },
+    "descriptions.wikisource": {
+        "message": "Wikisource is a library of freely-licensed source texts and historical documents, including poetry, government documents, constitutions of many countries, and general literature.",
+        "description": "The presence description of the \"Wikisource\" presence."
+    },
+    "descriptions.wikispecies": {
+        "message": "Wikispecies is a species database for taxonomy that covers living and fossil representatives of Animalia, Plantae, Fungi, Bacteria, Archaea, Protista and all other forms of life.",
+        "description": "The presence description of the \"Wikispecies\" presence."
+    },
+    "descriptions.wikivoyage": {
+        "message": "Wikivoyage aims to create the world's largest free, complete and up-to-date worldwide travel guide.",
+        "description": "The presence description of the \"Wikivoyage\" presence."
+    },
+    "descriptions.wikiversity": {
+        "message": "Wikiversity is devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education.",
+        "description": "The presence description of the \"Wikiversity\" presence."
+    },
+    "descriptions.wiktionary": {
+        "message": "Wiktionary is a free multilingual dictionary. The project aims to describe all words of all languages. It includes language resources such as a thesaurus, rhyme guide, and language statistics.",
+        "description": "The presence description of the \"Wiktionary\" presence."
+    },
+    "descriptions.novel_mania": {
+        "message": "Read webnovels in Portuguese anywhere and anytime.",
+        "description": "The presence description of the \"Novel Mania\" presence."
+    },
+    "descriptions.stips": {
+        "message": "Come share your knowledge and ideas with the world, meet new people and opinions",
+        "description": "The presence description of the \"Stips\" presence."
+    },
+    "descriptions.bugmenot": {
+        "message": "Access and share logins for websites that require you to register in order to view content",
+        "description": "The presence description of the \"BugMeNot\" presence."
+    },
+    "descriptions.cloudx": {
+        "message": "CloudX is an online radio station that strives to provide you with the best and latest hit from all around the world!",
+        "description": "The presence description of the \"CloudX\" presence."
+    },
+    "descriptions.animewho": {
+        "message": "AnimeWho? is a site where you can watch Turkish subtitle anime & read manga.",
+        "description": "The presence description of the \"AnimeWho\" presence."
+    },
+    "descriptions.rustlabs": {
+        "message": "Rust Labs is a reliable database for the video game, Rust. It provides weekly updates and revised statistical information for items and game mechanics.",
+        "description": "The presence description of the \"Rustlabs\" presence."
+    },
+    "descriptions.dual": {
+        "message": "Let Dual power your ears with the latest and greatest music from around the world.",
+        "description": "The presence description of the \"Dual\" presence."
+    },
+    "descriptions.keep_it wholesome": {
+        "message": "Keep it wholesome brand. Raising awareness about mental health, while creating a growing community of people spreading the message of hope to those that need it. 20% of all profits are donated to charities specializing in mental illness research, supporting those with anxiety depression, or other mental health issues.",
+        "description": "The presence description of the \"Keep It Wholesome\" presence."
+    },
+    "descriptions.reach_radio": {
+        "message": "The Station Made For Gaming - Playing All The Hits 24/7!",
+        "description": "The presence description of the \"Reach Radio\" presence."
+    },
+    "descriptions.reyfm": {
+        "message": "Best music app for charts, rap and gaming. Listen to 15+ music streams for free - nonstop. The best and latest music only for you!",
+        "description": "The presence description of the \"REYFM\" presence."
+    },
+    "descriptions.juniperbot": {
+        "message": "Fluffy Discord Bot (Music, Ranking, Reminder, Vk Community bridge, WikiFur)",
+        "description": "The presence description of the \"Juniperbot\" presence."
+    },
+    "descriptions.devtr": {
+        "message": "DevTR - It is a site where you can get free code and ready infrastructure for your bots.",
+        "description": "The presence description of the \"DevTR\" presence."
+    },
+    "descriptions.epic_games": {
+        "message": "Epic Games, Inc. is an American video game and software developer and publisher based in Cary, North Carolina.",
+        "description": "The presence description of the \"Epic Games\" presence."
+    },
+    "descriptions.repeat": {
+        "message": "Repeating your favourite tunes daily.",
+        "description": "The presence description of the \"Repeat\" presence."
+    },
+    "descriptions.yaay": {
+        "message": "Yaay, new Turkish social media with many features!",
+        "description": "The presence description of the \"Yaay\" presence."
+    },
+    "descriptions.asphalt_events": {
+        "message": "Modern and feature-packed convoy/event advertising service for TruckersMP.",
+        "description": "The presence description of the \"Asphalt Events\" presence."
+    },
+    "descriptions.itch.io": {
+        "message": "Itch.io is an indie game distribution platform.",
+        "description": "The presence description of the \"Itch.io\" presence."
+    },
+    "descriptions.reaperx": {
+        "message": "ReaperX is a Robux Shop (R$) with our professional service, our service is the most popular and lowest priced",
+        "description": "The presence description of the \"ReaperX\" presence."
+    },
+    "descriptions.onlyhit": {
+        "message": "OnlyHit is your online music radio station made to play your best hits 24/7 and to make you discover your future hits first.",
+        "description": "The presence description of the \"OnlyHit\" presence."
+    },
+    "descriptions.spinshare": {
+        "message": "SpinShare is a chart sharing service for Spin Rhythm XD.",
+        "description": "The presence description of the \"SpinShare\" presence."
+    },
+    "descriptions.beastfm": {
+        "message": "BeastFM is a US radio station with the #1 hits 24/7",
+        "description": "The presence description of the \"BeastFM\" presence."
+    },
+    "descriptions.mangahost": {
+        "message": "The most complete and well organized online reader where you can find stories and mangás in portuguese language.",
+        "description": "The presence description of the \"MangaHost\" presence."
+    },
+    "descriptions.dmoj": {
+        "message": "The DMOJ is a modern contest platform and archive of programming problems.",
+        "description": "The presence description of the \"DMOJ\" presence."
+    },
+    "descriptions.radiot_suomi": {
+        "message": "You can listen to Finnish radio channels on the Internet!",
+        "description": "The presence description of the \"Radiot Suomi\" presence."
+    },
+    "descriptions.fivem": {
+        "message": "FiveM is a multiplayer modification framework for GTA V, allowing you to play on customized dedicated servers.",
+        "description": "The presence description of the \"FiveM\" presence."
+    },
+    "descriptions.linus_tech tips": {
+        "message": "Official Linus Tech Tips forum.",
+        "description": "The presence description of the \"Linus Tech Tips\" presence."
+    },
+    "descriptions.radiko": {
+        "message": "Radiko is Japanese website that provides radio livestreaming in real time.",
+        "description": "The presence description of the \"Radiko\" presence."
+    },
+    "descriptions.xkcd": {
+        "message": "XKCD is a webcomic of romance, sarcasm, math, and language.",
+        "description": "The presence description of the \"XKCD\" presence."
+    },
+    "descriptions.town_of salem": {
+        "message": "Town of Salem is a browser-based game that challenges players on their ability to convincingly lie as well as detect when other players are lying.",
+        "description": "The presence description of the \"Town of Salem\" presence."
+    },
+    "descriptions.mark_scans": {
+        "message": "A brazilian scanlator that make webtoons and mangas",
+        "description": "The presence description of the \"Mark Scans\" presence."
+    },
+    "descriptions.scan": {
+        "message": "Official Scan computer parts, computing services and business.",
+        "description": "The presence description of the \"Scan\" presence."
+    },
+    "descriptions.laftel": {
+        "message": "Anime streaming service in korea.",
+        "description": "The presence description of the \"Laftel\" presence."
+    },
+    "descriptions.broken_picturephone": {
+        "message": "A online game that you can draw, guess and send words to your friends guess.",
+        "description": "The presence description of the \"Broken Picturephone\" presence."
+    },
+    "descriptions.codare": {
+        "message": "CodAre's code sharing website.",
+        "description": "The presence description of the \"CodAre\" presence."
+    },
+    "descriptions.catchplay": {
+        "message": "CatchPlay is a Taiwanese multimedia company founded in 2007, whose businesses include OTT VOD streaming service operation, linear television channel operation (CatchPlay Movie Channel) and theatrical film distribution.",
+        "description": "The presence description of the \"CatchPlay\" presence."
+    },
+    "descriptions.milk_and cookies": {
+        "message": "Discord Community for everyone!",
+        "description": "The presence description of the \"Milk and Cookies\" presence."
+    },
+    "descriptions.imdbfilmizle": {
+        "message": "Watch newest movies as Full HD in our website. The best website to watch films when it comes to quality.",
+        "description": "The presence description of the \"IMDbFilmizle\" presence."
+    },
+    "descriptions.vanis.io": {
+        "message": "Vanis.io a free multiplayer game.",
+        "description": "The presence description of the \"Vanis.io\" presence."
+    },
+    "descriptions.coub": {
+        "message": "Coub is a video sharing website. It allows users to create and share looping videos up to ten seconds long, using existing video from YouTube, Vimeo, or their own files",
+        "description": "The presence description of the \"Coub\" presence."
+    },
+    "descriptions.flickr": {
+        "message": "Flickr is an American image hosting and video hosting service, as well as an online community. It was created by Ludicorp in 2004 and has been popular with hosting high resolution photos by amateur and professional photographers. (Wikipédia: https://en.wikipedia.org/wiki/Flickr)",
+        "description": "The presence description of the \"Flickr\" presence."
+    },
+    "descriptions.roll20": {
+        "message": "Play games anywhere. Share them with anyone. With Roll20 as your virtual tabletop, your adventures are limitless.",
+        "description": "The presence description of the \"Roll20\" presence."
+    },
+    "descriptions.jstris": {
+        "message": "Jstris is just standard competitive multiplayer Tetris, but made with JS.",
+        "description": "The presence description of the \"Jstris\" presence."
+    },
+    "descriptions.invidious": {
+        "message": "Invidious is an alternative front-end to YouTube.",
+        "description": "The presence description of the \"Invidious\" presence."
+    },
+    "descriptions.mega": {
+        "message": "Secure Cloud Storage and Communication. Privacy by Design.",
+        "description": "The presence description of the \"MEGA\" presence."
+    },
+    "descriptions.dash_radio": {
+        "message": "100% Free Music. More Variety. Zero Commercials. The Best DJ's & Stations. No BS",
+        "description": "The presence description of the \"Dash Radio\" presence."
+    },
+    "descriptions.foster": {
+        "message": "Foster. The Powerful Discord Bot.",
+        "description": "The presence description of the \"Foster\" presence."
+    },
+    "descriptions.reallifegtav": {
+        "message": "Real Life GTAV is a german FiveM roleplay server with custom scripts and more!",
+        "description": "The presence description of the \"RealLifeGTAV\" presence."
+    },
+    "descriptions.furaffinity": {
+        "message": "FurAffinity is a furry art and media website, where you can create your own profile and share, like and comment art of thousands of users.",
+        "description": "The presence description of the \"FurAffinity\" presence."
+    },
+    "descriptions.sling_tv": {
+        "message": "Get more of the live TV you love for less.",
+        "description": "The presence description of the \"Sling TV\" presence."
+    },
+    "descriptions.destiny.gg": {
+        "message": "Streaming website for the streamer Steven \"Destiny\" Bonnell II",
+        "description": "The presence description of the \"Destiny.gg\" presence."
+    },
+    "descriptions.flacless": {
+        "message": "Flacless is a website that provide original songs with very high bit rate (320 kbps and up to 1411 kbps flac), allowing users to download music for free.",
+        "description": "The presence description of the \"Flacless\" presence."
+    },
+    "descriptions.unsplash": {
+        "message": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+        "description": "The presence description of the \"Unsplash\" presence."
+    },
+    "descriptions.truckstopradio": {
+        "message": "Truck Stop Radio, a new but popular radio station for Euro Truck Simulator and American Truck Simulator.",
+        "description": "The presence description of the \"TruckStopRadio\" presence."
+    },
+    "descriptions.animekisa": {
+        "message": "Unlike many other websites AnimeKisa has a tiny amount of ads. Find streamable servers and watch the anime you love, subbed or dubbed in HD.",
+        "description": "The presence description of the \"AnimeKisa\" presence."
+    },
+    "descriptions.zoom": {
+        "message": "Stay connected wherever you go – start or join a secure meeting with flawless video and audio, instant screen sharing, and cross-platform instant messaging - for free!",
+        "description": "The presence description of the \"Zoom\" presence."
+    },
+    "descriptions.lol_esports": {
+        "message": "The best place to watch League of Legends Esports and earn rewards!",
+        "description": "The presence description of the \"LoL Esports\" presence."
+    },
+    "descriptions.peacock": {
+        "message": "Watch TV shows and movies online with Peacock. Stream iconic shows and movies, exclusive Peacock originals, live news and sports and more.",
+        "description": "The presence description of the \"Peacock\" presence."
+    },
+    "descriptions.bigbluebutton": {
+        "message": "BigBlueButton online learning platform",
+        "description": "The presence description of the \"BigBlueButton\" presence."
+    },
+    "descriptions.hacktoberfest": {
+        "message": "Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. ",
+        "description": "The presence description of the \"Hacktoberfest\" presence."
+    },
+    "descriptions.dreamsub": {
+        "message": "Watch all the series thanks to our archive of Anime in Streaming Sub ITA HD / FULL HD and Free Download. Find the best series ever completely free.",
+        "description": "The presence description of the \"DreamSub\" presence."
+    },
+    "descriptions.kitapların_dili": {
+        "message": "Kitapların Dili is a website where you can find audio books for free and listen to them!",
+        "description": "The presence description of the \"Kitapların Dili\" presence."
+    },
+    "descriptions.blkom": {
+        "message": "Blkom - Arabic website to watch and download Arabic subbed anime and get the latest news about Anime.",
+        "description": "The presence description of the \"Blkom\" presence."
+    },
+    "descriptions.anime4up": {
+        "message": "Anime4up - Arabic website to watch and download Arabic subbed anime with multiple servers.",
+        "description": "The presence description of the \"Anime4up\" presence."
+    },
+    "descriptions.philo": {
+        "message": "Live & on-demand TV. 60+ channels. Unlimited DVR. No contract.",
+        "description": "The presence description of the \"Philo\" presence."
+    },
+    "descriptions.memesena": {
+        "message": "The perfect place for memers where we have Desi and English meme templates, meme articles, meme arts, copypastas, emojipastas and meme bots.",
+        "description": "The presence description of the \"Memesena\" presence."
+    },
+    "descriptions.figma": {
+        "message": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.",
+        "description": "The presence description of the \"Figma\" presence."
+    },
+    "descriptions.vrchat": {
+        "message": "VRChat is a free-to-play massively multiplayer online virtual reality social platform. It allows players to interact with others as 3D character models.",
+        "description": "The presence description of the \"VRChat\" presence."
+    },
+    "descriptions.webflow": {
+        "message": "Webflow empowers designers to build professional, custom websites in a completely visual canvas.",
+        "description": "The presence description of the \"Webflow\" presence."
+    },
+    "descriptions.granblue_fantasy": {
+        "message": "Japanese role playing game",
+        "description": "The presence description of the \"Granblue Fantasy\" presence."
+    },
+    "descriptions.curve_fever pro": {
+        "message": "The smash hit Curve Fever is back with a new multiplayer browser game: Curve Fever Pro. Cut off opponents, squeeze through tiny holes and unlock new powers.",
+        "description": "The presence description of the \"Curve Fever Pro\" presence."
+    },
+    "descriptions.xero.gg": {
+        "message": "xero.gg is a website Player- and Clan database for a private server of the game S4 League.",
+        "description": "The presence description of the \"xero.gg\" presence."
+    },
+    "descriptions.mojevideo": {
+        "message": "MojeVideo is a Slovak video streaming/sharing website mostly with funny, short videos",
+        "description": "The presence description of the \"MojeVideo\" presence."
+    },
+    "descriptions.google_podcast": {
+        "message": "With Google Podcasts, you can find and listen to the world's podcasts for free",
+        "description": "The presence description of the \"Google Podcast\" presence."
+    },
+    "descriptions.blob_project": {
+        "message": "Hello, welcome to Blob Project. We are from Jakarta, Indonesia. We create an amazing project and are trusted by thousands of people.",
+        "description": "The presence description of the \"Blob Project\" presence."
+    },
+    "descriptions.proxer": {
+        "message": "Free and open German Anime Community",
+        "description": "The presence description of the \"Proxer\" presence."
+    },
+    "descriptions.dizimag": {
+        "message": "Dizimag is most popular website in the Turkey, you can watch TV series & films.",
+        "description": "The presence description of the \"Dizimag\" presence."
+    },
+    "descriptions.bonk2.io": {
+        "message": "A multiplayer browser game where the objective is to knock all of the opponents off the edge of the screen and be the last man standing.",
+        "description": "The presence description of the \"Bonk2.io\" presence."
+    },
+    "descriptions.github_codespaces": {
+        "message": "Contribute to projects without complicating your local setup. Spin up dev environments with a click — even for projects you haven't worked on before — and switch between them with ease.",
+        "description": "The presence description of the \"GitHub Codespaces\" presence."
+    },
+    "descriptions.dropbox": {
+        "message": "Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software.",
+        "description": "The presence description of the \"Dropbox\" presence."
+    },
+    "descriptions.animepill": {
+        "message": "Watch the latest anime hits. AnimePill - your daily dose of anime & manga.",
+        "description": "The presence description of the \"AnimePill\" presence."
+    },
+    "descriptions.ekrem_i̇mamoğlu": {
+        "message": "Istanbul Metropolitan Municipality president Ekrem Imamoglu's personal page.'",
+        "description": "The presence description of the \"Ekrem İmamoğlu\" presence."
+    },
+    "descriptions.sürat_kargo": {
+        "message": "Sürat Kargo, delivery company providing services in Turkey.",
+        "description": "The presence description of the \"Sürat Kargo\" presence."
+    },
+    "descriptions.bonk_leagues": {
+        "message": "The best tools for bonk.io, featuring a skin manager, XP checker and more for bonk.io",
+        "description": "The presence description of the \"Bonk Leagues\" presence."
+    },
+    "descriptions.newgrounds": {
+        "message": "A community of artists, game developers, musicians, voice actors and writers who create and share some of the best stuff on the web!",
+        "description": "The presence description of the \"Newgrounds\" presence."
+    },
+    "descriptions.anizmtv": {
+        "message": "AnizmTV is a website which enables you to watch subtitled anime with high quality broadcasting and up-to-date episodes.",
+        "description": "The presence description of the \"AnizmTV\" presence."
+    },
+    "descriptions.storyfire": {
+        "message": "Join the StoryFire rebellion! Watch and create the stories and videos that you want while growing a massive fanbase!",
+        "description": "The presence description of the \"StoryFire\" presence."
+    }
+}
