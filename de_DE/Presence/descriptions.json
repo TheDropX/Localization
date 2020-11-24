@@ -117,7 +117,7 @@
     },
     "descriptions.i_love music": {
         "message": "Das beste Internet-Radio in Deutschland - Die beste Musik für jeden!",
-        "description": "testsetsetseThe presence description of the \"I Love Music\" presence.\nIf \"I Love Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/I%20Love%20Music/dist/metadata.json"
+        "description": "The presence description of the \"I Love Music\" presence.\nIf \"I Love Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/I%20Love%20Music/dist/metadata.json"
     },
     "descriptions.hulu": {
         "message": "Erlebe mit Hulu sofort aktuelle Hit-Shows, klassische Serien und hoch gelobte Filme.",
