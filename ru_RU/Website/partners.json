@@ -36,11 +36,11 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Автоматически использовать ваше Presence, когда кто-то посещает ваш веб-сайт.",
+		"message": "Автоматически использует ваше присутствие при посещении вашего сайта.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "Получите бессмертие",
+		"message": "Получить увековеченный",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -52,7 +52,7 @@
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.why.benefit5.description": {
-		"message": "Размещено в наших социальных сетях.",
+		"message": "Избранные на наших социальных сетях.",
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Если вы довольно заинтересованы в прямой работе в PreMiD, то взгляните на наши объявления о вакансиях.",
+		"message": "Если Вас интересует непосредственная работа в PreMiD, то ознакомьтесь с нашими **объявлениями о работе**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -107,24 +107,16 @@
 		"message": "UpBeat-это некоммерческое Международное радио, которое стремится обеспечить непрерывное, качественное радио и новостные развлечения.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Платформа для заработка геймеров.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio - это самое успешное информационно-развлекательное радио для симуляторов игр в Германии, Австрии и Швейцарии!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Получите то, что принадлежит вам по праву. Потоковое аниме, фильмы, хентай, специальные предложения и многое другое. Бесплатно, без всякой рекламы и в высоком разрешении!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Начните создавать свое собственное сообщество с нашими замечательными шаблонами. Постройте свое собственное королевство.",
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "тайга-это бот Discord, который пытается предложить все функции, которые вам могут понадобиться одновременно!",
+		"message": "taiga — это бот Discord, который пытается предложить все функции, которые вам могут понадобиться сразу!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
@@ -136,8 +128,12 @@
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.erisly": {
-		"message": "Богиня, которая играет как забавный бот-Дискорд!",
+		"message": "Богиня, которая играет в качестве веселого бота Discord!",
 		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM - это платформа, которая транслирует для вас лучшую и новейшую музыку, где вы можете слушать более 15 музыкальных потоков бесплатно и без перерыва!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Гибкая локализация для технологических компаний.",
@@ -148,15 +144,15 @@
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.packageCloud": {
-		"message": "Единый, дружественный к разработчику интерфейс для всех ваших работ.",
+		"message": "Единый, дружественный для разработчиков интерфейс для всех ваших артефактов.",
 		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
-		"message": "За лучшими в интернете.",
+		"message": "За лучшим в сети.",
 		"description": "Description for Fastly."
 	},
 	"partners.partner.onlyhit": {
-		"message": "OnlyHit-это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
+		"message": "OnlyHit- это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
@@ -164,7 +160,7 @@
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "Сделать первый вход {0}",
+		"message": "Вы вошли как {0}",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -184,7 +180,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "Наименование",
+		"message": "Имя",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
@@ -204,7 +200,7 @@
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "Описание основных моментов",
+		"message": "Описание избранного",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
@@ -220,7 +216,7 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Подать",
+		"message": "Применить",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {

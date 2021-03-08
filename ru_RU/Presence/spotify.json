@@ -12,11 +12,11 @@
 		"description": ""
 	},
 	"spotify.genres": {
-		"message": "Смотрит жанров",
+		"message": "Просмотр жанров",
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "Смотрит последних выпусков",
+		"message": "Просмотр последних релизов",
 		"description": ""
 	},
 	"spotify.discover": {

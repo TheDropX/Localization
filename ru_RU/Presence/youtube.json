@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "Сейчас смотрит рекламы",
+        "message": "Сейчас смотрит рекламу",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Смотрит постов сообщества",
+        "message": "Смотрит посты сообщества",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Смотрит трендового",
+        "message": "Смотрит тренды",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -48,7 +48,7 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "покупки",
+        "message": "их покупки",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Смотрит всех плейлистов",
+        "message": "Смотрит все их плейлисты",
         "description": ""
     },
     "youtube.viewLiveEvents": {
@@ -68,7 +68,7 @@
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "Смотрит панели инструментов на эфир",
+        "message": "Просмотр их информационной панели",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
@@ -108,7 +108,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "переводы канала",
+        "message": "переводы каналов",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
@@ -116,7 +116,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Смотрит панели инструментов",
+        "message": "Смотрит панель инструментов",
         "description": ""
     }
 }

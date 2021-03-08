@@ -20,7 +20,7 @@
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
-		"message": "Zoek presence",
+		"message": "Zoeken naar presence",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
@@ -28,11 +28,11 @@
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "Verwijder presence",
+		"message": "Presence verwijderen",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "Deze Presence is automatisch ingeschakeld wanneer je de site bezoekt.",
+		"message": "Deze presence wordt automatisch weergegeven als je de site bezoekt.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
@@ -40,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Meest gebruikte eerst",
+		"message": "Populairste eerst tonen",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -48,11 +48,11 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Alleen favoriete presences",
+		"message": "Alleen favorieten tonen",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "Toon toegevoegde presences",
+		"message": "Toegevoegde presences tonen",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
@@ -84,7 +84,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Zoek",
+		"message": "Zoeken",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {

@@ -1,14 +1,14 @@
 {
     "amazon.subscriptions": {
-        "message": "Visualizzando sottoscrizioni",
+        "message": "Visualizzando i propri abbonamenti",
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Visualizzando le loro preferenze pubblicitarie",
+        "message": "Visualizzando le proprie preferenze pubblicitarie",
         "description": ""
     },
     "amazon.balance": {
-        "message": "Visualizzando il loro saldo",
+        "message": "Visualizzando il proprio saldo",
         "description": ""
     },
     "amazon.payment": {
@@ -16,11 +16,11 @@
         "description": ""
     },
     "amazon.address": {
-        "message": "Visualizzando i loro indirizzi",
+        "message": "Visualizzando i propri indirizzi",
         "description": ""
     },
     "amazon.pets": {
-        "message": "Visualizzando i loro animali domestici",
+        "message": "Visualizzando i propri animali domestici",
         "description": ""
     },
     "amazon.catergoriesAll": {
@@ -32,7 +32,7 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Visualizzando i loro",
+        "message": "Visualizzando i propri",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "amazon.history": {
-        "message": "Visualizzando la loro cronologia",
+        "message": "Visualizzando la propria cronologia",
         "description": ""
     },
     "amazon.store": {

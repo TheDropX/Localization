@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "커뮤니티 보는 중",
+        "message": "커뮤니티 게시글 보는 중",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -24,43 +24,51 @@
         "description": ""
     },
     "youtube.searchChannel": {
-        "message": "채널 {0} 안에서 검색 중",
+        "message": "채널 {0} 에서 다음을 검색하는 중:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "무엇이 유행인지 보는중",
+        "description": ""
+    },
     "youtube.browsingThrough": {
-        "message": "탐색하는 중",
+        "message": "찾아보는 중",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "그들의 구독",
+        "message": "채널 구독정보",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "그들의 목록",
+        "message": "라이브러리",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "그들의 기록",
+        "message": "시청기록",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "그들의 구매내역",
+        "message": "구매내역",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "그들의 신고내역을 보는 중",
+        "message": "신고내역을 보는 중",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "무언가를 업로드 중입니다.",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "그들의 모든 재생목록을 보는 중",
+        "message": "모든 재생목록을 보는 중",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "생방송 보는중",
+        "message": "생방송 이벤트 보는 중",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "대쉬보드 보는중",
+        "message": "대쉬보드 보는 중",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
@@ -68,7 +76,7 @@
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "영상 보는중",
+        "message": "영상 보는 중",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -80,15 +88,19 @@
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "댓글보는중",
+        "message": "댓글 보는중",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
         "message": "영상 번역중",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "보는 중",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
-        "message": "채널 분석중",
+        "message": "채널 분석",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {

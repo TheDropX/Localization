@@ -4,15 +4,15 @@
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Статусо-утверждающий",
+		"message": "Верификатор присутствия",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Важный разработчик Статусов",
+		"message": "Важный разработчик присутствия",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Создал {0} статусов.",
+		"message": "Создано {0} присутствий.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
@@ -20,7 +20,7 @@
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Создал более 100 статусов!",
+		"message": "Создано более 100 Присутствий!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {

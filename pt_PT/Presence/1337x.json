@@ -20,39 +20,39 @@
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "A ver Anime Torrentes",
+        "message": "A ver torrents de anime",
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "A ver Torrents de Aplicações",
+        "message": "A ver torrents de aplicações",
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "A ver Torrents de documentários",
+        "message": "A ver torrents de documentários",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "A ver Torrents de Jogos",
+        "message": "A ver torrents de jogos",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "A ver Torrents de Filmes",
+        "message": "A ver torrents de filmes",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "A ver Torrents de Música",
+        "message": "A ver torrents de música",
         "description": ""
     },
     "1337x.otherTorrents": {
-        "message": "A ver Outros Torrents",
+        "message": "A ver outras torrents",
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "A ver Torrents de Televisão",
+        "message": "A ver torrents de televisão",
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "A ver Torrents XXX",
+        "message": "A ver torrents de XXX",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
@@ -72,7 +72,7 @@
         "description": ""
     },
     "1337x.viewTorrent": {
-        "message": "A ler torrent:",
+        "message": "A ver a torrent",
         "description": ""
     }
 }

@@ -3,9 +3,37 @@
 		"message": "Partnerek",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integráció",
+		"description": "Heading for the third benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Követelmények",
 		"description": "Heading for the requirements."
+	},
+	"partners.apply.button": {
+		"message": "Jelentkezz most!",
+		"description": "Button to apply for partner."
+	},
+	"partners.sponsors.title": {
+		"message": "Szponzorok",
+		"description": "Heading for sponsors."
+	},
+	"partners.partner.crowdin": {
+		"message": "Agilis honosítás a tech cégek számára.",
+		"description": "Description for Crowdin."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Bejelentkezve mint {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Nem te vagy az?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Kérlek válassz egyet",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
 		"message": "Weboldal",
@@ -15,20 +43,28 @@
 		"message": "Egyéb",
 		"description": "Select 'Other' category."
 	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Ex: PreMiD",
-		"description": "Name field's placeholder."
+	"partners.apply.form.name": {
+		"message": "Név",
+		"description": "Name filed."
 	},
 	"partners.apply.form.link": {
 		"message": "Link",
 		"description": "Link field."
 	},
+	"partners.apply.form.description": {
+		"message": "Leírás: (Maximum 150 karakter)",
+		"description": "Description field."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Bezárás",
 		"description": "Modal close button."
 	},
-	"partners.apply.success": {
-		"message": "Köszönjük jelentkezésedet!",
-		"description": "Success message when applying."
+	"partners.apply.error1": {
+		"message": "Kérlek, töltsd ki az összes mezőt.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error4": {
+		"message": "Már jelentkeztél a partnerre.",
+		"description": "Error when already applied."
 	}
 }

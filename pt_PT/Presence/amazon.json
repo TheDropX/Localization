@@ -1,10 +1,10 @@
 {
     "amazon.subscriptions": {
-        "message": "A ver subscrições",
+        "message": "A ver as suas subscrições",
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "A ver as suas preferências de publicidades",
+        "message": "A ver as suas preferências de anúncios",
         "description": ""
     },
     "amazon.balance": {
@@ -28,31 +28,31 @@
         "description": ""
     },
     "amazon.prime": {
-        "message": "A ver Amazon Prime",
+        "message": "A ver o Amazon Prime",
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "A ver os(as) seus(suas)",
+        "message": "A ver",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
-        "message": "histórico de encomendas",
+        "message": "o seu histórico de encomendas",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "detalhes da encomenda",
+        "message": "os detalhes da sua encomenda",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
-        "message": "carrinho de compras",
+        "message": "o seu carrinho de compras",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "lista de desejos",
+        "message": "a sua lista de desejos",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "cartões presente",
+        "message": "os seus cartões presente",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
@@ -64,11 +64,11 @@
         "description": ""
     },
     "amazon.store": {
-        "message": "A ver loja:",
+        "message": "A ver a loja:",
         "description": ""
     },
     "amazon.primeVid": {
-        "message": "A ver Primei Video:",
+        "message": "A ver o vídeo Prime",
         "description": ""
     }
 }

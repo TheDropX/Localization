@@ -39,10 +39,6 @@
 		"message": "Bli känd",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "Krav",
-		"description": "Heading for the requirements."
-	},
 	"partners.requirements.first.title": {
 		"message": "Vad letar vi efter?",
 		"description": "Heading for the first requirement."

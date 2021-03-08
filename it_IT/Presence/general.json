@@ -107,6 +107,18 @@
 		"message": "Cercando",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Scrivendo",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Chiamando",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "In una chiamata...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Carrello d'acquisto",
 		"description": ""
@@ -199,13 +211,45 @@
 		"message": "Guardando:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Visualizzando la pagina:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Guardando un film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Guardando una serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Guardando uno show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Guardando un video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "In attesa che un video sia in anteprima",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "In attesa che il video sia in anteprima",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Guardando una diretta streaming",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "In attesa che inizi una live",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "In attesa che inizi la live",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Guardando:",
@@ -222,5 +266,85 @@
 	"general.terms": {
 		"message": "Termini del servizio",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Informativa sui Cookie",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Ripetendo tutte le canzoni",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "In loop",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Visualizzando un imprevisto",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Cronologia degli incidenti",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Inizio del servizio",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Guarda le serie",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Guarda un Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Guarda episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Guarda il video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Guarda la diretta",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Guarda il canale",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Ascolta assieme",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Guarda la pagina",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Visualizza brano",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Visualizza Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Mostra Profilo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Visualizza artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Visualizza playlist",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Visualizza podcast",
+		"description": "Used as the title for the button in Discord."
 	}
 }

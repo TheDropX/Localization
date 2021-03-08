@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "Habilitado",
+		"message": "Activado",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "¡PreMiD fue incapaz de conectarse a su aplicación! ¿Está esta instalada y corriendo? *Solución De Problemas*",
+		"message": "¡PreMiD fue incapaz de conectarse a su aplicación! ¿Está esta instalada y ejecutándose? *Solución De Problemas*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -86,6 +86,22 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "Tu aplicación de PreMiD está desactualizada. Por favor, actualízala para continuar usando PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Extensión desactualizada",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Tu extensión está desactualizada. Por favor descárgala de nuestro sitio para conseguir las últimas características.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Actualización urgente",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Lanzamos una actualización urgente para la extensión. Por favor actualízala para poder seguir utilizando PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
 		"message": "¡Sin conexión a internet!",

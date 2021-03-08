@@ -88,19 +88,15 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.noInternet": {
-		"message": "没有网络连接!",
-		"description": "Shown when the user has no internet connection"
-	},
-	"popup.info.noInternet.message": {
-		"message": "似乎您没有互联网连接！PreMiD目前无法显示存在。",
+		"message": "没有网络连接！",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "没有 Discord 连接！",
+		"message": "无法连接至 Discord！",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD 无法连接到您的 Discord 应用程序！它已安装并运行吗？*疑难解答*",
+		"message": "PreMiD 无法连接到您的 Discord！确定它正在运行吗？*疑难解答*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

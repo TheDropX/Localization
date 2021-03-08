@@ -6,5 +6,21 @@
     "facebook.vcall": {
         "message": "영상 통화중 : ",
         "description": ""
+    },
+    "facebook.browse": {
+        "message": "탐색하는 중:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "저장된 영상",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "최근 추가된 항목",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "오늘의 날씨 보는중",
+        "description": ""
     }
 }

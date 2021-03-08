@@ -1,0 +1,14 @@
+{
+	"twitch.downloads": {
+		"message": "دانلود ها",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "همکاران",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "صفحه اصلی",
+		"description": "Page name"
+	}
+}

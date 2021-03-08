@@ -1,0 +1,26 @@
+{
+	"twitch.downloads": {
+		"message": "다운로드",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "파트너",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "커뮤니티 지침",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "홈페이지",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "지갑 보는중",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "E-스포츠 보는중...",
+		"description": ""
+	}
+}

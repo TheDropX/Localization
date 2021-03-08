@@ -30,5 +30,17 @@
 	"general.store": {
 		"message": "Butik",
 		"description": ""
+	},
+	"general.buttonViewSeries": {
+		"message": "Visa serier",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Visa filmen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Visa Avsnitt",
+		"description": "Used as the title for the button in Discord."
 	}
 }

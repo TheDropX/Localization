@@ -1,1 +1,6 @@
-{}
+{
+	"beta.title": {
+		"message": "Viltu nýja eiginleika?",
+		"description": "Beta page title"
+	}
+}

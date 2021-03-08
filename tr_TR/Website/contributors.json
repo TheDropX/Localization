@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Proje liderleri",
+		"message": "Proje Lideri",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
@@ -20,7 +20,7 @@
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Pazarlama Direktörü",
+		"message": "Pazarlama Müdürü",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -28,7 +28,7 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Gözden Geçiren",
+		"message": "İnceleyen",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {

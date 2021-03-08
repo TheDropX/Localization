@@ -107,6 +107,18 @@
 		"message": "Mencari",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Menulis",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Memanggil",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Dalam panggilan...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Troli membeli-belah",
 		"description": ""
@@ -199,13 +211,45 @@
 		"message": "Melihat:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Menonton filem",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Menonton siri",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Menonton persembahan",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Menonton video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Menunggu tayangan perdana",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Menunggu tayangan perdana",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Menonton strim langsung",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Menunggu strim langsung untuk bermula",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Menunggu strim langsung untuk bermula",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Menonton:",
@@ -222,5 +266,85 @@
 	"general.terms": {
 		"message": "Terma Perkhidmatan",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Polisi Kuki",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Gelungkan semua lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam gelungan",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Melihat kejadian",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Sejarah kejadian",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Sejarah masa hidup",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Melihat Siri",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Melihat Filem",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Tonton Episod",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Tonton Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Tonton Strim",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Lihat Saluran",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Mendengar Bersama",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Melihat Halaman",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Melihat Lagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Melihat Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Melihat Profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Lihat Artis",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Lihat Senarai Main",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Lihat Audio Siar",
+		"description": "Used as the title for the button in Discord."
 	}
 }

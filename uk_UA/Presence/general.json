@@ -199,6 +199,10 @@
 		"message": "Переглядає ",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Переглядає сторінку:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Дивиться відео",
 		"description": ""
@@ -222,5 +226,13 @@
 	"general.terms": {
 		"message": "Умови обслуговування",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Політика використання Cookie",
+		"description": "A page name"
+	},
+	"general.buttonViewProfile": {
+		"message": "Переглянути профіль",
+		"description": "Used as the title for the button in Discord."
 	}
 }

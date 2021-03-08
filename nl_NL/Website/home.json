@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het internet aan het doen bent in uw Discord status.",
+		"message": "**PreMiD** is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het internet aan het doen bent in je Discord status.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -32,7 +32,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Browsen...",
+		"message": "Bladeren...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -44,11 +44,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Door de manier waarop we onze extensie gemaakt hebben, kun je Presences van anderen toevoegen, gebruiken en beheren in onze extensie!",
+		"message": "Door de manier waarop we onze extensie gemaakt hebben, kun je presences van anderen toevoegen, gebruiken en beheren in onze extensie!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
-		"message": "Bezoek de winkel",
+		"message": "Naar bibliotheek",
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {

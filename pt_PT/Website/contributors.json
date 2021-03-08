@@ -4,23 +4,39 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Apoiantes",
+		"message": "Contribuidores",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "Tradutores(as)",
+		"message": "Tradutores",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Líder do projecto",
+		"message": "Líder do projeto",
 		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Coordenador da Staff",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Diretor de Marketing",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
 		"message": "Administrador",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "Revisor do GitHub",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Gestor de localização",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
-		"message": "Desenvolvedor",
+		"message": "Programador",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
@@ -28,35 +44,39 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "Moderador(a)",
+		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
 		"message": "Agente de Suporte",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
+	"contributors.roles.representative": {
+		"message": "Representante",
+		"description": "'Representative' title for contributors and user pages."
+	},
 	"contributors.roles.proofreader": {
 		"message": "Revisor",
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Doador(a)",
+		"message": "Doador",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Booster",
+		"message": "Impulsionador",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
-		"message": "Tradutor(a)",
+		"message": "Tradutor",
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Clique para copiar o ID do usuário.",
+		"message": "Clica para copiar o ID do utilizador.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "ID de usuário copiado!",
+		"message": "ID de utilizador copiado!",
 		"description": "Notification after user ID was copied."
 	}
 }

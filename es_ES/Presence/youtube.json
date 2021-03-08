@@ -28,11 +28,11 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Viendo las tendencias",
+        "message": "Revisando que hay en las tendencias",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Navegando a través de",
+        "message": "Buscando a través de",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -84,19 +84,19 @@
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Viendo analíticas de video:",
+        "message": "Viendo analíticas del video:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Viendo comentarios de video:",
+        "message": "Viendo los comentarios del video:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Viendo traducciones de video:",
+        "message": "Viendo las traducciones del video:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Viendo sus",
+        "message": "Revisando sus",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {

@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estes já pertencem a nós",
+		"message": "Estes já nos pertencem",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -16,19 +16,19 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Sua Presence gratuita",
+		"message": "A tua Presence gratuita",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "A nossa equipe irá oferecer-te com uma Presence do seu serviço web.",
+		"message": "A nossa equipa irá oferecer-te uma presence para o teu serviço.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Torne-se verificado",
+		"message": "Torna-te verificado",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Um cargo especial e uma grande horra serão-lhe dadas no nosso servidor de Discord.",
+		"message": "Um cargo especial e uma grande honra ser-te-ão dados no nosso servidor de Discord.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "A sua Presence será automaticamente ativada quando alguém visitar o seu Website.",
+		"message": "A tua presence será automaticamente ativada quando alguém visitar o teu site.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -64,19 +64,19 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Estamos atentos a comunidades em crescimento e coisas empolgantes pela internet. TL;DR você já deve usar o PreMiD e estar pronto para propagá-lo para ainda mais loucos da internet. A aceitação neste programa é extremamente qualitativa e variará de um candidato para o outro.",
+		"message": "Estamos atentos a comunidades em crescimento e coisas empolgantes pela internet. Resumidamente, já deves estar usar o PreMiD e estar pronto para o promover para mais amantes da internet. A aceitação neste programa é extremamente qualitativa e irá variar de um candidato para o outro.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
-		"message": "O nosso firewall",
+		"message": "Os nossos requisitos",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "De momento, aceitamos vários tipos de esforço no nosso programa de parceria. Qualquer um deve ter a oportunidade de ser notado. Os tarnsmissores da Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espetadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
+		"message": "De momento, aceitamos vários tipos de esforço no nosso programa de parceria. Qualquer um deve ter a oportunidade de ser notado. Os transmissores da Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espetadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Inscreva-se já!",
+		"message": "Candidata-te já!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Se estiver interessado num emprego direto no PreMiD, então veja as nossas **vagas de emprego**.",
+		"message": "Se estiveres interessado num emprego no PreMiD, vê as nossas **vagas de emprego**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -96,7 +96,7 @@
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
-		"message": "É assim que se assiste anime.",
+		"message": "É assim que se vê anime.",
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
@@ -104,51 +104,47 @@
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "O UpBeat é uma rádio internacional sem fins lucrativos que se esforça por fornecer rádio e entretenimento de notícias de qualidade.",
+		"message": "O UpBeat é uma rádio internacional sem fins lucrativos que se esforça para fornecer rádio, entretenimento e notícias de qualidade.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "A plataforma de ganhos de um jogador.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio é o rádio de infotainment mais bem-sucedido para jogos de simulação na Alemanha, Áustria e Suíça!",
+		"message": "SimLiveRadio é a rádio de infotainment mais bem-sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
 		"description": "Description for SimLoveRadio."
 	},
-	"partners.partner.aniWatch": {
-		"message": "Pegue o que é seu por direito. Transmitir anime, filmes, hentai, especiais e muito mais. Gratuitamente, sem anúncios e em alta definição!",
-		"description": "Description for AniWatch."
-	},
 	"partners.partner.discordTemplates": {
-		"message": "Comece a criar a sua própria comunidade com os nossos incríveis modelos. Construa o seu próprio reino.",
+		"message": "Começa a criar a tua própria comunidade com os nossos incríveis modelos. Constrói o teu próprio reino.",
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga é um Bot do Discord que tenta oferecer todos os recursos que podes precisar de uma só vez!",
+		"message": "O taiga é um Bot do Discord que te tenta oferecer todos os recursos de que podes precisar!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
-		"message": "Uma ferramenta poderosa e fácil de criação de instaladores entre plataformas.",
+		"message": "Uma ferramenta poderosa e fácil de utilizar na criação de instaladores entre plataformas.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Comunique-se facilmente com o status em tempo real aos seus usuários.",
+		"message": "Comunica facilmente com os teus utilizadores em tempo real.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.erisly": {
 		"message": "Uma deusa que joga como um divertido Bot do Discord!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "O REYFM permite-te ouvir mais de 15 categorias de música grátis e sem parar. Com a melhor e mais recente música só para ti!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Solução de localização ágil para empresas de tecnologia.",
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "O mais poderoso e extensível software Wiki de código aberto.",
+		"message": "O mais poderoso e expansível software de Wiki de código aberto.",
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.packageCloud": {
-		"message": "Uma interface unificada e amigável para todos os seus artefactos.",
+		"message": "Uma interface para programadores unificada e amigável para todos os teus artefactos.",
 		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
@@ -156,15 +152,15 @@
 		"description": "Description for Fastly."
 	},
 	"partners.partner.onlyhit": {
-		"message": "O OnlyHit é a sua estação de rádio de música online feita para reproduzir seus melhores acertos 24/7 e fazer com que você descubra primeiro seus futuros acertos.",
+		"message": "O OnlyHit é a tua estação de rádio online feita para tocar os melhores sons 24 por dia e fazer com que descubras os teus próximos sons favoritos.",
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Inscrever-se para parceiro",
+		"message": "Candidatura a parceiro",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "Inscrito como {0}",
+		"message": "Sessão iniciada como {0}",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -172,11 +168,11 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "Por favor, selecione um",
+		"message": "Seleciona um",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
-		"message": "Website",
+		"message": "Site",
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
@@ -184,7 +180,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "Nome:",
+		"message": "Nome",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
@@ -220,15 +216,15 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Aplicar",
+		"message": "Candidatar",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Obrigado por se candidatar!",
+		"message": "Obrigado por te candidatares!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
-		"message": "Por favor, preencha todos os campos.",
+		"message": "Por favor preenche todos os campos.",
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
@@ -240,7 +236,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Você já se inscreveu para parceiro antes.",
+		"message": "Já te candidataste a parceiro.",
 		"description": "Error when already applied."
 	}
 }

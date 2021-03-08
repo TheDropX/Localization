@@ -11,24 +11,12 @@
 		"message": "翻译人员",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.projectLeader": {
-		"message": "项目负责人",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "职员协调员",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "营销总监",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
 	"contributors.roles.administrator": {
 		"message": "管理员",
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "审稿人",
+		"message": "审查员",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
@@ -48,7 +36,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
-		"message": "代表",
+		"message": "社区代表",
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {

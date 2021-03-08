@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "Guardando un annuncio",
+        "message": "Attualmente guardando un annuncio",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -20,15 +20,15 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Leggendo riguardo il canale:",
+        "message": "Leggendo riguardo al canale:",
         "description": ""
     },
     "youtube.searchChannel": {
-        "message": "Ricercando nel canale: {0} per:",
+        "message": "Cercando nel canale: {0} per:",
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Guardando le tendenze",
+        "message": "Visualizzando le tendenze",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -36,23 +36,23 @@
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "le loro sottoscrizioni",
+        "message": "le proprie iscrizioni",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "la loro libreria",
+        "message": "la propria libreria",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "la loro cronologia",
+        "message": "la propria cronologia",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "i loro acquisti",
+        "message": "i propri acquisti",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Visualizzando la cronologia delle segnalazioni",
+        "message": "Visualizzando la propria cronologia delle segnalazioni",
         "description": ""
     },
     "youtube.upload": {
@@ -60,15 +60,11 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Visualizzando tutte le loro playlist",
+        "message": "Visualizzando tutte le proprie playlist",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "Visualizzando i loro eventi live",
-        "description": ""
-    },
-    "youtube.viewLiveDashboard": {
-        "message": "Visualizzando la loro live dashboard",
+        "message": "Visualizzando i propri eventi live",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
@@ -76,7 +72,7 @@
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Visualizzando i loro video",
+        "message": "Visualizzando i propri video",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -84,7 +80,7 @@
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Visualizzando l'analitica del video:",
+        "message": "Visualizzando le statistiche del video:",
         "description": ""
     },
     "youtube.studio.videoComments": {
@@ -96,11 +92,11 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Visualizzando i loro",
+        "message": "Visualizzando i propri",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
-        "message": "analisi del canale",
+        "message": "statistiche del canale",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
@@ -116,7 +112,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Visualizzando la loro dashboard",
+        "message": "Visualizzando la propria dashboard",
         "description": ""
     }
 }

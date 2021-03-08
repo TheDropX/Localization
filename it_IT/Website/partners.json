@@ -4,11 +4,11 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Unisciti alla famiglia e ottieni alcuni vantaggi solo per i partner per mostrare quanto swag hai.",
+		"message": "Unisciti alla famiglia e ottieni alcuni vantaggi riservati ai partner per mostrare quanto sei swag.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Questi ci appartengono già",
+		"message": "Questi già ci appartengono",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "La tua presenza libera",
+		"message": "La tua presenza gratuita",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
@@ -107,17 +107,9 @@
 		"message": "UpBeat è una radio internazionale senza scopo di lucro che si impegna a fornire radio di qualità e intrattenimento senza sosta.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "La piattaforma per guadagnare giocatori.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio è la radio di infotainment di maggior successo per i giochi di simulazione in Germania, Austria e Svizzera!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Ottieni ciò che è tuo legittimamente. Guarda Anime, Film, Hentai, Speciali e molto altro. Gratuito, senza annunci e con alta definizione!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Inizia a creare la tua comunità con i nostri fantastici modelli. Costruisci il tuo regno.",
@@ -138,6 +130,10 @@
 	"partners.partner.erisly": {
 		"message": "Una dea che gioca come un divertente bot di Discord!",
 		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vi permette di ascoltare 15+ stream musicali gratis - senza interruzioni. Con la migliore e più recente musica solo per te!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Localizzazione agile per aziende tecnologiche.",
@@ -160,7 +156,7 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Applicati come partner",
+		"message": "Domanda per essere un partner",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
@@ -184,7 +180,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "nome",
+		"message": "Nome",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
@@ -240,7 +236,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Ti sei già applicato come partner.",
+		"message": "Hai già fatto domanda per partner.",
 		"description": "Error when already applied."
 	}
 }

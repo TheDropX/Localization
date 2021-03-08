@@ -1,8 +1,4 @@
 {
-	"error.page.details": {
-		"message": "Detaljer",
-		"description": "'Details' text on error page container"
-	},
 	"user.notFound.heading": {
 		"message": "Den brukeren kunne ikke bli funnet. Prøv å være sikker på at",
 		"description": "Error when user couldn't be found."

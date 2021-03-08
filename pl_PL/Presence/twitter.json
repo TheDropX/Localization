@@ -1,46 +1,42 @@
 {
-    "twitter.readTweet": {
-        "message": "Czyta tweeta:",
-        "description": ""
-    },
-    "twitter.viewDms": {
-        "message": "Przegląda swoje wiadomości prywatne",
-        "description": ""
-    },
-    "twitter.viewTweets": {
-        "message": "Przegląda tweety:",
-        "description": ""
-    },
-    "twitter.viewTweetsWithReplies": {
-        "message": "Przegląda tweety (z odpowiedziami):",
-        "description": ""
-    },
-    "twitter.viewMedia": {
-        "message": "Przegląda multimedia:",
-        "description": ""
-    },
-    "twitter.viewLiked": {
-        "message": "Przegląda polubienia:",
-        "description": ""
-    },
-    "twitter.viewList": {
-        "message": "Przegląda listę:",
-        "description": ""
-    },
-    "twitter.bookmarks": {
-        "message": "Zakładki",
-        "description": ""
-    },
-    "twitter.notifs": {
-        "message": "Powiadomienia",
-        "description": ""
-    },
-    "twitter.explore": {
-        "message": "Odkrywanie",
-        "description": ""
-    },
-    "twitter.settings": {
-        "message": "Zmienianie niektórych ustawień...",
-        "description": ""
-    }
+	"twitter.viewDms": {
+		"message": "Przegląda swoje wiadomości prywatne",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Przegląda tweety:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Przegląda tweety (z odpowiedziami):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Przegląda multimediów:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Przegląda polubionych przez:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Przeglądanie list:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Zakładki",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Powiadomienia",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Odkrywanie",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Zmienianie niektórych ustawień...",
+		"description": ""
+	}
 }

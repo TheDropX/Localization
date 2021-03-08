@@ -27,5 +27,5 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.AUTOMERGE }}"
           MERGE_FILTER_AUTHOR: "TheDropX"
           MERGE_LABELS: ""
+          MERGE_METHOD: "squash"
           UPDATE_LABELS: ""
-          MERGE_COMMIT_MESSAGE: "*beep boop*"

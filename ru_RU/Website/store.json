@@ -24,11 +24,11 @@
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
-		"message": "Добавить",
+		"message": "Добавить присутствие",
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "Удалить",
+		"message": "Удалить присутствие",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
@@ -84,7 +84,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Поиск",
+		"message": "Искать",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {

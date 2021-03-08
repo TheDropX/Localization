@@ -8,7 +8,7 @@
         "description": ""
     },
     "amazon.balance": {
-        "message": "Смотрит баланса",
+        "message": "Просмотр их баланса",
         "description": ""
     },
     "amazon.payment": {
@@ -20,7 +20,7 @@
         "description": ""
     },
     "amazon.pets": {
-        "message": "Смотрит питомцев",
+        "message": "Просмотр своих питомцев",
         "description": ""
     },
     "amazon.catergoriesAll": {
@@ -60,11 +60,11 @@
         "description": ""
     },
     "amazon.history": {
-        "message": "Смотрит истории",
+        "message": "Просмотр их истории",
         "description": ""
     },
     "amazon.store": {
-        "message": "Смотрит магазина:",
+        "message": "Смотрит магазин:",
         "description": ""
     },
     "amazon.primeVid": {

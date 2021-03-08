@@ -1,0 +1,14 @@
+{
+	"presence.sections.changelog.title": {
+		"message": "परिवर्तन लॉग",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "जानकारी",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.contributors": {
+		"message": "योगदानकर्ता",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
+}

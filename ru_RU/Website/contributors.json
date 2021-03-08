@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Руководитель проекта",
+		"message": "Лидер проекта",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
@@ -31,12 +31,16 @@
 		"message": "Рецензент",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Менеджер по переводу",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Разработчик",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
-		"message": "Разработчик",
+		"message": "Дизайнер",
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {

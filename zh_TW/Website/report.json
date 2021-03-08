@@ -11,8 +11,16 @@
 		"message": "回報",
 		"description": "Button to send the information inputed."
 	},
+	"report.error": {
+		"message": "需要更多信息",
+		"description": "User needs to input more notification"
+	},
 	"report.error.unauth": {
 		"message": "Discord帳號需要被驗證",
 		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "已知的錯誤",
+		"description": "Lists users active bugs"
 	}
 }

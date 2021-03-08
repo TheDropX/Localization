@@ -15,6 +15,14 @@
 		"message": "為我們貢獻一下 何樂而不為？",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "你專屬的 presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "我們的團隊將為您的服務創建一個 Presence",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "成為已驗證的用户吧",
 		"description": "Heading for the second benefit."
@@ -26,6 +34,10 @@
 	"partners.why.benefit3.title": {
 		"message": "你將會在贊助人員榜上有名",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "當有人訪問您的網站時會自動下載和​​啟用您的狀態。",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "永久性",
@@ -39,8 +51,12 @@
 		"message": "成為大人物",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "刊登在我們的社交媒體上。",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
-		"message": "需求",
+		"message": "前置需求",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -67,6 +83,10 @@
 		"message": "讓我們一起合作",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "如果您對PreMiD的工作很感興趣，請查看我們的**聘請廣告**。",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "贊助者",
 		"description": "Heading for sponsors."
@@ -87,13 +107,17 @@
 		"message": "UpBeat是一家非營利性國際廣播公司，致力於提供不間斷地優質的廣播和新聞娛樂。",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "玩家可以再這個平台賺錢",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio是德國，奧地利和瑞士最成功的模擬遊戲信息的娛樂廣播！",
 		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "使用我們超棒的模板来創建您自己的社區,建立您自己的王國.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga是一個Discord 機器人,它盡量一次提供所有你可能需要的功能.",
+		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
 		"message": "一個功能強大且易於使用的跨平台安裝程序創建工具。",
@@ -103,6 +127,14 @@
 		"message": "輕鬆將實時狀態傳達給用戶。",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "一個好玩的Discord Bot機器人!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM讓您免費收聽高達十五種的音樂 - 不間斷。只為您提供最好的和最新的音樂!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "針對科技公司實現敏捷本地化。",
 		"description": "Description for Crowdin."
@@ -111,9 +143,17 @@
 		"message": "最強大和可擴展的開源Wiki軟件。",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "為您所有的工件提供一個統一友好的界面。",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "最棒網站的背後",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit是您的音樂電台，24小時不間斷播放您最喜愛的歌曲，讓您第一時間發現未來的熱門歌曲。",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "申請為合作夥伴",

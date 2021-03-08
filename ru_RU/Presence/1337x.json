@@ -4,7 +4,7 @@
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "Смотрит библиотеки серии",
+        "message": "Просмотр библиотеки серии",
         "description": ""
     },
     "1337x.latestEpisode": {
@@ -28,7 +28,7 @@
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "Смотрит документальных торрентов",
+        "message": "Просмотр документов торрентов",
         "description": ""
     },
     "1337x.gamesTorrents": {

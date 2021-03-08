@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Leader Del Progetto",
+		"message": "Responsabile di progetto",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
@@ -30,6 +30,10 @@
 	"contributors.roles.reviewer": {
 		"message": "Revisore",
 		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Responsabile della localizzazione",
+		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
 		"message": "Sviluppatore",

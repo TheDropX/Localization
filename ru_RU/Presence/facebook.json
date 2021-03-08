@@ -1,6 +1,6 @@
 {
     "facebook.call": {
-        "message": "Звонит с:",
+        "message": "В звонке:",
         "description": ""
     },
     "facebook.vcall": {
@@ -48,7 +48,7 @@
         "description": ""
     },
     "facebook.savedVids": {
-        "message": "Сохраняет видео",
+        "message": "Сохраненные видео",
         "description": ""
     },
     "facebook.added": {

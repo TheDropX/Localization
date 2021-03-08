@@ -1,6 +1,6 @@
 {
 	"contributors.headings.staff": {
-		"message": "Jadro týmu",
+		"message": "Tým",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
@@ -19,14 +19,6 @@
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.supportAgent": {
-		"message": "Podporovaný agent",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Korektor",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "Dárce",
 		"description": "'Donator' title for contributors page."
@@ -40,11 +32,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Kliknutím zkopírujete ID uživatele.",
+		"message": "Kliknutím zkopíruješ ID uživatele.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID uživatele zkopírováno!",
-		"description": "Notification after user ID was copied."
 	}
 }

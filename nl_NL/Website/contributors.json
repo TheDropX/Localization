@@ -28,8 +28,12 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Verificateur",
+		"message": "Controleur",
 		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Lokalisatiebeheerder",
+		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
 		"message": "Ontwikkelaar",

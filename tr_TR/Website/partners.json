@@ -107,17 +107,9 @@
 		"message": "UpBeat, aralıksız, kaliteli radyo hizmeti sunani kâr amacı gütmeyen bir internet radyosudur.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Oyuncu kazanç platformu.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio simülasyon oyunlarında Almanya, Avusturya ve İsviçrede bulunan oyuncuların dinlediği en popüler radyolardan biridir.",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Senin olana sahip ol. Anime, film, hentai, özel içerikler ve dahası. Ücretsiz, reklamız ve yüksek kalitede!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin.",
@@ -138,6 +130,10 @@
 	"partners.partner.erisly": {
 		"message": "Eğlenceli bir Discord Botu olarak oynayan bir tanrıça!",
 		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM, ücretsiz olarak 15'den fazla müzik yayınını bedava ve kesintisiz dinleyebileceğiniz sizin için en iyi ve en yeni müzikleri yayınlayan bir platformdur!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
@@ -224,7 +220,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Onayladığınız için teşekkürler!",
+		"message": "Başvuru yaptığınız için teşekkürler!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

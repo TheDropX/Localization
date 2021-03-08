@@ -1,0 +1,54 @@
+{
+	"twitch.downloads": {
+		"message": "Downloads",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Parceiros",
+		"description": "Page name"
+	},
+	"twitch.viewDropsInv": {
+		"message": "A ver o seu inventário de drops...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "A ver",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.blogBrowse": {
+		"message": "A ver os últimos posts no blog...",
+		"description": ""
+	},
+	"twitch.helpTopic": {
+		"message": "A ver o tópico",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "A ver o catálogo de tópicos",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Programa de Afiliação da Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Programadores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentação para programadores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produtos para programadores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Histórias de sucesso da comunidade",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Recursos úteis",
+		"description": "Page name"
+	}
+}
